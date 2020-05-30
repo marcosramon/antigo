@@ -3,7 +3,6 @@ title: "A hora e a vez do podcast"
 excerpt: "Sobre o crescimento dos podcasts (e o que acontece com o Ficções)"
 date: 2019-06-26
 published: true
-teaser: assets/images/tolis2.jpg
 og_image: assets/images/tolis2.jpg
 tags: 
   - podcast
