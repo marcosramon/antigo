@@ -1,5 +1,5 @@
 ---
-title: "*Lathe biosas*"
+title: "Lathe biosas"
 excerpt: "A felicidade não está em ser visto por todo mundo"
 date: 2019-07-03
 published: true
