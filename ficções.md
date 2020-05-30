@@ -13,9 +13,9 @@ permalink: /ficcoes/
 
 Para ouvir todos os episódios use um dos links a seguir:
 
-<a href="https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc"><img src="/assets/images/spotify-badge.png" "width:165px;height:40px;"></a> 
+<a href="https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc"><img src="/assets/images/spotify-badge.png" width="165px" height="40px"></a> 
 
-<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz"><img src="/assets/images/google_podcasts.png" "width:165px;height:40px;"></a>
+<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz"><img src="/assets/images/google_podcasts.png" width="165px" height="40px"></a>
 
 <a href="https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?mt=2&app=podcast" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/pt-br/badge-lrg.svg?releaseDate=2020-05-26T00:00:00Z&kind=podcast&bubble=podcasts) no-repeat;width:165px;height:40px;"></a> 
 
