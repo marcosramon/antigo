@@ -3,14 +3,37 @@ layout: default
 title: Home
 ---
 
-<div class="img">
-    <img src="/assets/images/toll-site.png"/>
-</div>
-
-<!-- <p><a href="http://www.md.utoronto.ca/current-student-biographies">MD-PhD student</a> at <a href="http://www.utoronto.ca/">The University of Toronto</a>.</p> -->
-
 <p>Sou professor de filosofia e pesquisador nas áreas de estética e cibercultura. Meus temas de interesse: tecnologia digital, arte, filosofia e cultura visual.</p>
 
 <p>Aqui você encontra o meu <a href="https://marcosramon.net/blog/">blog</a> e <a href="https://marcosramon.net/ficcoes/">podcast</a>.</p>
 
 <p><i class="icon-twitter"></i> <a href="https://twitter.com/mrtollens">@mrtollens</a> | <i class="icon-envelope-alt"></i> <a href="mailto:contato@marcosramon.net">contato@marcosramon.net</a></p>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
