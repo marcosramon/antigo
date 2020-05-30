@@ -1,10 +1,10 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Marcos Ramon
+tagline: Filosofia, arte, tecnologia
+url: https://marcosramon.net
 paginate: 1
 baseurl: ""
-permalink: pretty
+permalink: /:categories/:title/
 
 # Gems
 plugins:
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Marcos Ramon
+  url: https://twitter.com/mrtollens
+  email: contato@marcosramon.net
 
 # Custom vars
 version: 3.0.0
