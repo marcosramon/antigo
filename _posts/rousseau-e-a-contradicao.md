@@ -12,7 +12,7 @@ sidebar:
 date: 2020-05-26
 collection: ficcoes
 categories:
-  - podcast
+  - ficcoes
 tags: 
   - filosofia
   - rousseau
