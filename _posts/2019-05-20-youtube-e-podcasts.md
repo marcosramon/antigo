@@ -4,7 +4,7 @@ excerpt: "Pesquisa recente do Ibope mostrou que a maioria dos ouvintes utiliza o
 date: 2019-05-20
 collection: ficcoes
 categories:
-  - podcast
+  - ficcoes
 tags: 
   - Youtube
   - Podcasts
