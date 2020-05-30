@@ -5,7 +5,7 @@ excerpt: "Um podcast sobre narrativas filosóficas. A proposta é analisar os di
 permalink: /ficcoes/
 ---
 
-<img src="/assets/font-awesome/twitter-brands.svg"><a href="https://twitter.com/PodcastFiccoes"> @PodcastFiccoes</a>
+<img src="/assets/font-awesome/twitter-brands.svg" width="50px" height="50px"><a href="https://twitter.com/PodcastFiccoes"> @PodcastFiccoes</a>
 
 <iframe src="https://anchor.fm/podcastficcoes/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
