@@ -7,6 +7,7 @@ tags: [tecnologia]
 header-img: "/img/abstrato6.jpg"
 date: 2013-12-19
 author: Marcos Ramon
+categories: blog
 ---
 
 
