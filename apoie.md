@@ -9,17 +9,17 @@ Se você gosta do que produzo e algo que eu criei é importante para você ou te
 
 Faça uma doação única (você escolhe o valor). Qualquer colaboração já é de grande ajuda. 
 
-[<i class="fas fa-hand-holding-usd"></i> Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){: .btn .btn--success}
+<i class="icon-hand-holding"></i>[Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){: .btn .btn--success}
 
-[<i class="fas fa-hand-holding-usd"></i> Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){: .btn .btn--success}
+<i class="icon-hand-holding"></i>[Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){: .btn .btn--success}
 
 ## Me siga
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-Twitter: [@mrtollens](https://twitter.com/mrtollens)
-Goodreads: [marcosramon](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) 
-Youtube: [Conexão Filosófica](http://youtube.com/conexaofilosofica)
+<i class="icon-twitter"></i> Twitter: [@mrtollens](https://twitter.com/mrtollens)
+<i class="icon-book"></i> Goodreads: [marcosramon](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) 
+<i class="icon-youtube"></i> Youtube: [Conexão Filosófica](http://youtube.com/conexaofilosofica)
 
 ## Compre um dos meus livros
 
