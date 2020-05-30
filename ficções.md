@@ -13,7 +13,13 @@ permalink: /ficcoes/
 
 Para ouvir todos os episódios use um dos links a seguir:
 
-[<i class="fab fa-spotify"></i> Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA){: .btn .btn--success} | [<i class="fab fa-google"></i> Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz){: .btn .btn--primary} | [<i class="fas fa-podcast"></i> Apple Podcasts](https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?itsct=podcast_box&amp;itscg=30200){: .btn .btn--danger} | [<i class="fas fa-rss"></i> RSS](https://anchor.fm/s/a9c85b0/podcast/rss){: .btn .btn--warning}
+<a href="https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc"><img src="/assets/images/spotify-badge.png"></a>
+
+<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz"><img src="/assets/images/google-badge.png"></a>
+
+<a href="https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?mt=2&app=podcast" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/pt-br/badge-lrg.svg?releaseDate=2020-05-26T00:00:00Z&kind=podcast&bubble=podcasts) no-repeat;width:165px;height:40px;"></a>
+
+<a href="https://anchor.fm/s/a9c85b0/podcast/rss">RSS</a>
 
 Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades.
 
