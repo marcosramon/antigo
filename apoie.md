@@ -21,7 +21,7 @@ Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outr
 
 <i class="icon-book"></i> Goodreads: [marcosramon](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) 
 
-<i class="icon-youtube-play"></i> Youtube: [Conexão Filosófica](http://youtube.com/conexaofilosofica)
+<i class="fa fa-youtube-play" aria-hidden="true"></i> Youtube: [Conexão Filosófica](http://youtube.com/conexaofilosofica)
 
 ## Compre um dos meus livros
 
