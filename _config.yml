@@ -1,8 +1,8 @@
 # Setup
 title: Marcos Ramon
-tagline: Filosofia, arte, tecnologia
+tagline: Textos e podcasts sobre filosofia, arte, tecnologia
 url: https://marcosramon.net
-paginate: 1
+paginate: 5
 baseurl: ""
 permalink: /:categories/:title/
 
@@ -30,6 +30,7 @@ sass:
 
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
+ga_analytics: UA-25904919-5
 
 # Specify the author for blog posts
 author:
