@@ -3,9 +3,9 @@ layout: default
 title: Archive
 ---
 
-# Archive
+# Arquivo
 
-Browse all posts by month and year.
+Publicações por mês e ano.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
