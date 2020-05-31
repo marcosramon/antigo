@@ -1,6 +1,6 @@
 ---
 title: "Lathe biosas"
-excerpt: "A felicidade não está em ser visto por todo mundo"
+excerpt: "É natural querermos mais atenção do que o necessário. Ao buscarmos esse tipo de popularidade, talvez sem intenção, acabamos também destruindo a possibilidade de uma vida mais tranquila, mais serena. Junte-se a isso o fato de que nunca nos satisfazemos com o que temos e pronto, temos diante de nós a receita da infelicidade — ou pelo menos do descontentamento."
 date: 2019-07-03
 published: true
 og_image: assets/images/A02DB45A-5A04-4A47-AB8B-48B5C12D3F0F.png
