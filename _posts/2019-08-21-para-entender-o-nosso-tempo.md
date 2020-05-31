@@ -1,6 +1,6 @@
 ---
 title: "Para entender o nosso tempo"
-excerpt: "Um mundo cheio de generalizações"
+excerpt: "Às vezes tenho a sensação de que o meu tempo é o mesmo de todas as outras pessoas, em qualquer época, em qualquer circunstância. Mas claro que não é assim. As coisas mudam, os modos de viver e entender a realidade mudam, as pessoas são sempre diferentes em cada cultura ou momento histórico."
 date: 2019-08-21
 published: true
 og_image: assets/images/virginia.png
