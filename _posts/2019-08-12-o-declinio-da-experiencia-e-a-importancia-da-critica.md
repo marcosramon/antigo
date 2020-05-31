@@ -1,6 +1,6 @@
 ---
 title: "O declínio da experiência e a importância da crítica"
-excerpt: "Quando perdemos a capacidade de ler a realidade"
+excerpt: "Quando eu estava na Universidade cursando a Licenciatura em Filosofia, tínhamos uma disciplina que era ministrada por dois professores que se alternavam a cada semestre. Um só falava de Benjamin, o outro, de Heidegger. Eu fiz a tal disciplina no modo Benjamin, e foi uma boa surpresa. Conheci ali um autor contemporâneo que, primeiro, não era impossível de ler e, segundo, tinha um apreço realmente gigante pela arte e pela forma como arte nos afeta, modificando nossa forma de entender e sentir a realidade."
 date: 2019-08-12
 published: true
 og_image: assets/images/benjamin.jpg
