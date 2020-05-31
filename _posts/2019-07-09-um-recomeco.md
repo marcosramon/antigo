@@ -1,6 +1,6 @@
 ---
 title: "Um recomeço"
-excerpt: "Melhor é aceitar a limitação que nos cerca"
+excerpt: "É difícil até mesmo imaginar quantas vezes em nossas vidas vamos ter que lidar com a sensação de reiniciar alguma coisa. Na maior parte do tempo é possível que esse processo aconteça de maneira casual, sem reflexão, sem muito tempo gasto na tentativa de entender cada uma das etapas do que nos acontece. Mas nem sempre vai ser assim."
 date: 2019-07-19
 published: true
 og_image: assets/images/recomeco.PNG
