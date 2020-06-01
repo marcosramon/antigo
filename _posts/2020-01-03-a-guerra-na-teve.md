@@ -9,8 +9,7 @@ categories: blog
 Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão. E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a guerra na tevê. Era a [Guerra do Golfo](https://pt.m.wikipedia.org/wiki/Guerra_do_Golfo) e foi a primeira vez que existia um trabalho jornalístico daquele jeito, a primeira vez que se podia ver os ataques acontecendo ao vivo, diante dos olhos do mundo inteiro.
 
 <figure>
-    <img src="/assets/images/guerra.jpeg">
-    <figcaption><small>Imagens da CNN na época da Guerra do Golfo</small></figcaption>
+    <img src="/assets/images/guerra.jpeg" alt="Imagens da CNN na época da Guerra do Golfo">
 <figure>   
   
 Era muito estranho, porque estávamos acostumados a filmes de guerra e a notícias sobre confrontos de todo tipo. Mas ninguém tinha visto ainda imagens reais, ao vivo, de uma guerra em curso. Existia um certo tipo de encanto em ficar na frente da televisão tentando decifrar o que significavam todos aqueles tiros e explosões. Mas o que nos atraía ali? Não sei ao certo.
