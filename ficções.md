@@ -23,4 +23,4 @@ Para ouvir todos os episódios use um dos links a seguir:
 
 Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades.
 
-Me ajude a continuar produzindo o podcast e outros projetos na internet: [marcosramon.net/apoie/](https://marcosramon.net/apoie/)
+Me ajude a continuar produzindo o podcast e outros projetos na internet: [marcosramon.net/apoie](https://marcosramon.net/apoie)
