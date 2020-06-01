@@ -16,14 +16,14 @@ Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558
 
 O que você pode encontrar aqui:
 
- - [Blog](https://marcosramon.net/blog): textos sobre filosofia, arte, ensino e tecnologia.
- - [Filosofia](https://marcosramon.net/filosofia): vídeos, podcasts e textos sobre Filosofia no Ensino Médio.
- - [Ficções](https://marcosramon.net/ficcoes): um podcast sobre filosofia e cotidiano.
+ - [Blog](https://marcosramon.net/blog): <mark>textos</mark> sobre filosofia, arte, ensino e tecnologia.
+ - [Filosofia](https://marcosramon.net/filosofia): vídeos, podcasts e textos sobre <mark>Filosofia no Ensino Médio</mark>.
+ - [Ficções](https://marcosramon.net/ficcoes): um <mark>podcast</mark> sobre filosofia e cotidiano.
  - [Arquivo](https://marcosramon.net/archive): uma lista das publicações por mês e ano.
  
 Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
 
-O template que utilizo nesse blog é uma versão customizada do tema [Poole](https://getpoole.com), criado por Mark Otto.
+O template que utilizo nesse blog é uma versão customizada do tema [Poole](https://getpoole.com), criado por [Mark Otto](https://twitter.com/mdo).
 
 ## Aviso de transparência
 
