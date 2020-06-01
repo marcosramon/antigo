@@ -11,10 +11,8 @@ Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televis�
 <figure>
     <img src="/assets/images/guerra.jpeg">
     <figcaption><small>Imagens da CNN na época da Guerra do Golfo</small></figcaption>
-<figure>
-
----
-
+<figure>   
+  
 Era muito estranho, porque estávamos acostumados a filmes de guerra e a notícias sobre confrontos de todo tipo. Mas ninguém tinha visto ainda imagens reais, ao vivo, de uma guerra em curso. Existia um certo tipo de encanto em ficar na frente da televisão tentando decifrar o que significavam todos aqueles tiros e explosões. Mas o que nos atraía ali? Não sei ao certo.
 
 Hoje acordei lendo na internet sobre o ataque norte americano ao General Qassem Soleimani, do Irã. O ataque foi feito com drones, no aeroporto de Bagdá, no Iraque, e matou pelo menos sete pessoas. O Irã promete vingança, e a sensação de uma guerra iminente existe. O que, óbvio, espero que não ocorra.
