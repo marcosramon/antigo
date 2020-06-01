@@ -6,7 +6,7 @@ excerpt: "Quando eu criança lembro de acordar um dia e ver todo mundo grudado n
 categories: blog
 ---
 
-Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão. E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a guerra na tevê. Era a Guerra do Golfo e foi a primeira vez que existia um trabalho jornalístico daquele jeito, a primeira vez que se podia ver os ataques acontecendo ao vivo, diante dos olhos do mundo inteiro.
+Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão. E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a guerra na tevê. Era a [Guerra do Golfo](https://pt.m.wikipedia.org/wiki/Guerra_do_Golfo) e foi a primeira vez que existia um trabalho jornalístico daquele jeito, a primeira vez que se podia ver os ataques acontecendo ao vivo, diante dos olhos do mundo inteiro.
 
 <figure>
     <img src="/assets/images/guerra.jpeg">
