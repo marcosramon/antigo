@@ -10,7 +10,7 @@ Parece desnecessário dizer qualquer coisa nessa linha. Afinal, as redes sociais
 
 ## Não compartilhe tudo
 
-Em um dos livros do Austin Kleon, ele diz que sempre que pensa em postar alguma coisa na internet ele faz um rascunho e espera até o outro dia. Se aquilo continuar postável no dia seguinte ele aperta o botão “publicar”. Os sites de redes sociais, obviamente, não querem que você tenha esse comportamento. É melhor para o algoritmo que você publique tudo, que você se exponha sem medo. E esse já é um bom motivo para você não fazer isso.
+Em um dos livros do [Austin Kleon](https://g.co/kgs/s94YCh), ele diz que sempre que pensa em postar alguma coisa na internet ele faz um rascunho e espera até o outro dia. Se aquilo continuar postável no dia seguinte ele aperta o botão “publicar”. Os sites de redes sociais, obviamente, não querem que você tenha esse comportamento. É melhor para o algoritmo que você publique tudo, que você se exponha sem medo. E esse já é um bom motivo para você não fazer isso.
 
 ## Siga pessoas que compartilham arte
 
@@ -26,10 +26,10 @@ A síndrome do explicador toma conta da gente quando estamos em uma rede social.
 
 ## Crie regras
 
-Talvez você esteja pensando que se for pra usar o Twitter do jeito que comentei antes é melhor nem usar. Mas o importante não é seguir as regras que eu elaborei, e sim seguir regras, impostas de você para você, em lugar de se render ao gosto do algoritmo e ao humor do comportamento de massa presente na rede social. A internet funciona melhor para as empresas quando você não pensa em como utilizá-las. Mas a pior coisa que você pode fazer é simplesmente seguir o fluxo, sem refletir. Muitas pesquisas apontam para o fato de que o uso das redes sociais nos deixa depressivos — e isso não é por acaso. Algumas coisas que eu disse aqui podem fazer sentido pra você, outras certamente não. Mas defina o que é importante pensando em como ficar bem. Crie regras. Tenha critérios. E use o Twitter sem perder a cabeça.
+Talvez você esteja pensando que se for pra usar o Twitter do jeito que comentei antes é melhor nem usar. Mas o importante não é seguir as regras que eu elaborei, e sim seguir regras, impostas de você para você, em lugar de se render ao gosto do algoritmo e ao humor do comportamento de massa presente na rede social. A internet funciona melhor para as empresas quando você não pensa em como utilizá-las. Mas a pior coisa que você pode fazer é simplesmente seguir o fluxo, sem refletir. [Muitas pesquisas apontam para o fato de que o uso das redes sociais nos deixa depressivos](https://scholar.google.com.br/scholar?q=social+network+depression&hl=pt-BR&as_sdt=0&as_vis=1&oi=scholart) — e isso não é por acaso. Algumas coisas que eu disse aqui podem fazer sentido pra você, outras certamente não. Mas defina o que é importante pensando em como ficar bem. Crie regras. Tenha critérios. E use o Twitter sem perder a cabeça.
 
 <figure>
     <img src="/assets/images/metro.jpeg">
 </figure>
 
-Nenhum guia é bom o suficiente se não puder ser adaptado para a realidade de quem precisa utilizá-lo. Realmente acredito que vale a pena considerar utilizar as redes sociais com mais parcimônia e pensando nos resultados que isso traz para a sua vida. No ano passado fiquei um bom tempo longe do Twitter e senti que a experiência foi positiva. Mas nem todo mundo pode ou quer ficar fora da internet. Por isso, elaborar formas de conviver com as adversidades ainda parece o melhor caminho. Esse guia, nesse sentido, é apenas uma provocação para te ajudar a encontrar o seu próprio jeito. O importante mesmo é não deixar de pensar sobre isso.
+Nenhum guia é bom o suficiente se não puder ser adaptado para a realidade de quem precisa utilizá-lo. Realmente acredito que vale a pena considerar utilizar as redes sociais com mais parcimônia e pensando nos resultados que isso traz para a sua vida. [o ano passado fiquei um bom tempo longe do Twitter e senti que a experiência foi positiva](https://anchor.fm/podcastficcoes/episodes/Longe-do-Twitter-e9fpiv/a-a15aiou). Mas nem todo mundo pode ou quer ficar fora da internet. Por isso, elaborar formas de conviver com as adversidades ainda parece o melhor caminho. Esse guia, nesse sentido, é apenas uma provocação para te ajudar a encontrar o seu próprio jeito. O importante mesmo é não deixar de pensar sobre isso.
