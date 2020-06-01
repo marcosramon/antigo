@@ -2,6 +2,7 @@
 layout: post
 title: Disposição para realizar
 excerpt: "Clay Shirky é um dos autores mais interessantes para se ler quando o tema é mídias sociais. Diferentemente de muitos escritores que ressaltam o lado catastrófico e agressivo das tecnologias digitais e da internet em nossas vidas, Shirky observa o poder do aprimoramento da vida por meio da tecnologia."
+categories: blog
 ---
 
 Clay Shirky é um dos autores mais interessantes para se ler quando o tema é mídias sociais. Diferentemente de muitos escritores que ressaltam o lado catastrófico e agressivo das tecnologias digitais e da internet em nossas vidas, Shirky observa o poder do aprimoramento da vida por meio da tecnologia. Por exemplo, no livro “A cultura da participação: Criatividade e generosidade no mundo conectado” (um livro já tinha lido e estou relendo agora), ele afirma:
