@@ -13,7 +13,7 @@ O filósofo contemporâneo Maurice Bernarnd, em *Parler, penser la danse*, afirm
 
 > Se há poucos filósofos que escreveram sobre a dança, é porque talvez tenham sentido confusamente que ela evanescia, evanescia demais, os filósofos não gostam daquilo que escapa, aquilo que escapa às pinças do conceito. Os filósofos que o tentaram são os aventureiros (...) (BERNARD, 2004, p.111-113)
 
-Se você observar o Google Trends, vai ver que nos últimos 16 anos as buscas por *filosofia e dança* sempre foram menores em volume do que as buscas por *filosofia e arte* ou *filosofia e música*, e isso certamente tem mais a ver com a filosofia do que com qualquer outra coisa.
+Levando a reflexão para outro campo e pensando na busca por temas de interesse, podemos observar a pouca valorização da relação entre Filosofia e Dança. Pesquisando o Google Trends, por exemplo, percebemos que nos últimos 16 anos as buscas por *filosofia e dança* sempre foram menores em volume do que as buscas por *filosofia e arte* ou *filosofia e música*, e isso certamente tem mais a ver com a filosofia do que com qualquer outra coisa.
 
 <img src="/assets/images/F6B7535D-AF67-47F6-B3A9-E67A80CC2BEA.jpeg">
 
@@ -39,7 +39,7 @@ A grande virada na arte do século XX foram os movimentos de vanguarda e a ruptu
 
 [^2]: Hegel considera em sua hierarquia (uma idea ultrapassada) as seguintes artes: arquitetura, escultura, pintura, música e poesia; sendo a poesia a mais elevada, por ser mais racional, e a arquitetura o seu contraposto. Já Schopenhauer inclui até mesmo a jardinagem dentro de sua hierarquia, mas esquece da dança.
 
-[^3]: Importante dizer que Platão defendia a existência de um cisão ontológica entre a efemeridade da mundo sensível e a verdade presente no mundo inteligível. Também é razoável considerar que a proposta educativa de Platão se voltava para uma possibilidade de formação do cidadão tendo em vista a cidade justa, ideal; mas nesse modelo, elaborado em *A República*, a única arte mencionada na formação dos cidadãos é a música, sendo excluídas a dança, a poesia, a escultura etc.
+[^3]: Importante dizer que Platão defendia a existência de uma cisão ontológica entre a efemeridade do mundo sensível e a verdade presente no mundo inteligível. Também é razoável considerar que a proposta educativa de Platão se voltava para uma possibilidade de formação do cidadão tendo em vista a cidade justa, ideal; mas nesse modelo, elaborado em *A República*, a única arte mencionada na formação dos cidadãos é a música, sendo excluídas a dança, a poesia, a escultura etc.
 
 ## Referências
 
