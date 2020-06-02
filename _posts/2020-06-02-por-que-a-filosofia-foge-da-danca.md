@@ -13,7 +13,7 @@ O filósofo contemporâneo Maurice Bernarnd, em *Parler, penser la danse*, afirm
 
 > Se há poucos filósofos que escreveram sobre a dança, é porque talvez tenham sentido confusamente que ela evanescia, evanescia demais, os filósofos não gostam daquilo que escapa, aquilo que escapa às pinças do conceito. Os filósofos que o tentaram são os aventureiros (...) (BERNARD, 2004, p.111-113)
 
-Se você observar o Google Trends vai ver que nos últimos 16 anos, as buscas por *filosofia e dança* sempre foram menores emn volume do que as buscas por *filosofia e música*, ou *filosofia e arte*, e isso certamente tem mais a ver com a filosofia do que com qualquer outra coisa.
+Se você observar o Google Trends, vai ver que nos últimos 16 anos as buscas por *filosofia e dança* sempre foram menores em volume do que as buscas por *filosofia e arte* ou *filosofia e música*, e isso certamente tem mais a ver com a filosofia do que com qualquer outra coisa.
 
 <img src="/assets/images/F6B7535D-AF67-47F6-B3A9-E67A80CC2BEA.jpeg">
 
