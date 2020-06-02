@@ -9,7 +9,7 @@ excerpt: "A estética, como disciplina filosófica, é recente. No entanto, desd
 
 A estética, como disciplina filosófica, é recente. No entanto, desde Platão existem vestígios da reflexão sobre a dança a partir de obras filosóficas. Mas se é verdade que o próprio Platão escreveu sobre a dança em alguns de seus diálogos, o mesmo não vale para a maioria dos pensadores que vieram depois. Por quê?
 
-O filósofo contemporâneo Maurice Bernarnd, em *Parler, penser la danse*, afirma o seguinte:
+O filósofo contemporâneo Michel Bernard, em *Parler, penser la danse*, afirma o seguinte:
 
 > Se há poucos filósofos que escreveram sobre a dança, é porque talvez tenham sentido confusamente que ela evanescia, evanescia demais, os filósofos não gostam daquilo que escapa, aquilo que escapa às pinças do conceito. Os filósofos que o tentaram são os aventureiros (...) (BERNARD, 2004, p.111-113)
 
