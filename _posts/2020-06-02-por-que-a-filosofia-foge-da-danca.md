@@ -58,3 +58,6 @@ LANGER, Susanne K. **Sentimento e forma**. São Paulo: Perspectiva, 1980.
 PLATÃO. **As leis**. São Paulo: Edipro, 2010.
 
 SCHOPENHAUER, Arthur. **Metafísica do Belo**. São Paulo: Editora UNESP, 2003.
+
+Esse texto foi escrito para uma atividade chamada *Jornadas do Corpo*, organizada por professores e estudantes do curso de Licenciatura em Dança do IFB. A conversa ocorreu no dia 02 de Junho de 2020.
+{: .message }
