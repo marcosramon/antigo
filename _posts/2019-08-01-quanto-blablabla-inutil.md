@@ -1,6 +1,6 @@
 ---
 title: "Quanto blablabla inútil"
-excerpt: "Sobre o desprezo pelo conhecimento."
+description: "Sobre o desprezo pelo conhecimento."
 header:
   image: /assets/images/ficcoes.jpg
   teaser: assets/images/ficcoes400x200.jpg
@@ -10,9 +10,8 @@ sidebar:
   - title: "Escute"
     text: "[Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA), [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) ou [RSS](https://anchor.fm/s/a9c85b0/podcast/rss)"
 date: 2019-08-01
-collection: ficcoes
-categories:
-  - podcast
+image: ficcoes.jpg
+categories: ficcoes
 tags: 
   - Cotidiano
   - Filosofia
