@@ -19,7 +19,7 @@ O que você pode encontrar aqui:
 
  - [Blog](https://marcosramon.net/blog): <mark>textos</mark> sobre filosofia, arte, ensino e tecnologia.
  - [Ficções](https://marcosramon.net/ficcoes): um <mark>podcast</mark> sobre filosofia e cotidiano.
- - [Livros](https://marcosramon.net/livros: lista dos meus <mark>livros publicados</mark>.
+ - [Livros](https://marcosramon.net/livros): lista dos meus <mark>livros publicados</mark>.
  - [Arquivo](https://marcosramon.net/archive): uma lista das publicações por mês e ano.
 
 Outros links: 
