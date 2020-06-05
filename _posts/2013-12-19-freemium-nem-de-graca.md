@@ -4,7 +4,7 @@ title: Freemium? Nem de graça.
 description: "A praga do modelo freemium se espalha pelo mundo"
 published: true
 tags: [tecnologia]
-header-img: "/img/abstrato6.jpg"
+image: abstrato6.jpg
 date: 2013-12-19
 author: Marcos Ramon
 categories: blog
