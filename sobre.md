@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 image: toll-site.png
-excerpt: "Marcos Ramon | Pesquisador, escritor, podcaster"
+description: "Marcos Ramon | Pesquisador, escritor, podcaster"
 ---
 
 ## O autor
