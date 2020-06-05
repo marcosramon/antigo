@@ -1,17 +1,12 @@
 ---
 title: "Os pensadores originários"
-excerpt: "A filosofia grega começou com quem?"
+description: "A filosofia grega começou com quem?"
 date: 2019-04-30
-collection: ficcoes
-categories:
-  - podcast
+image: ficcoes.jpg
+categories: ficcoes
 tags: 
   - Filosofia
   - Pré-socráticos
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Os-pensadores-originrios-e3t2u5/a-ae6p0a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
