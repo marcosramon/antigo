@@ -1,7 +1,7 @@
 ---
 title: Ficções
 layout: page
-excerpt: "Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades."
+description: "Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades."
 permalink: /ficcoes
 image: ficcoes-sp.png
 ---
