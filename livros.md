@@ -1,6 +1,7 @@
 ---
 title: "Livros"
 layout: page
+image: descompasso-div.png
 ---
 
 ## Livros publicados
