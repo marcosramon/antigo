@@ -1,19 +1,14 @@
 ---
 title: "Os objetos também agem"
-excerpt: "Quais os objetos que te definem?"
+description: "Quais os objetos que te definem?"
 date: 2019-05-23
-collection: ficcoes
-categories:
-  - podcast
+image: ficcoes.jpg
+categories: ficcoes
 tags: 
   - Teoria ator-rede
   - Bruno Latour
   - Objetos
   - Sociedade
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Os-objetos-tambm-agem-e44k4m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
