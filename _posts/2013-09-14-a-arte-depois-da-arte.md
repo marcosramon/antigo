@@ -1,9 +1,9 @@
 ---
 title: "A arte depois da arte"
-excerpt: "A arte precisa estar em todos os lugares"
+description: "A arte precisa estar em todos os lugares"
 date: 2013-09-14
 published: true
-og_image: /assets/images/graffitiremoval.jpg
+image: graffitiremoval.jpg
 tags: 
   - arte
   - comportamento
