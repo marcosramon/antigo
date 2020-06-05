@@ -10,4 +10,4 @@ author: Marcos Ramon
 categories: blog
 ---
 
-<img src="/assets/images/2014.jpg")
+<img src="/assets/images/2014.jpg">
