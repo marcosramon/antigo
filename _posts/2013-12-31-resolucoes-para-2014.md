@@ -4,9 +4,10 @@ title: Resoluções para 2014
 description: "Coisas que eu tenho que fazer no ano que vem"
 published: true
 tags: [cotidiano, desenho]
-header-img: "/img/sky3.jpg"
+image: "2014 marcosramon.PNG"
 date: 2013-12-31
 author: Marcos Ramon
+categories: blog
 ---
 
-![](https://dl.dropboxusercontent.com/u/49566417/blog/12_2013/2014%20marcosramon.PNG)
+<img src="/assets/images/2014 marcosramon.PNG")
