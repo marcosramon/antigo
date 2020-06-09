@@ -1,92 +1,36 @@
-# Poole
+## O autor
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+Meu nome é Marcos Ramon. Nasci em São Luís, mas moro em Brasília desde 2010. Sou pesquisador, professor e podcaster, e pesquiso cibercultura, estética e cultura digital. Sou professor de Filosofia no Instituto Federal de Brasília, atuando também no Mestrado em Educação Profissional e Tecnológica.
+{: .message }
 
------
+Sou Licenciado em Filosofia pela Universidade Federal do Maranhão (1999-2004), onde também concluí o Mestrado em Cultura e Sociedade (2009-2011). Fiz o Doutorado em Comunicação na Universidade de Brasília (2012-2014). 
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772){:target="_blank"} e do [Orcid](https://orcid.org/0000-0002-8720-8706){:target="_blank"}. Quem tiver interesse em trocar ideias sobre a pesquisa é só mandar um [email](mailto:contato@marcosramon.net){:target="_blank"}. 
 
-![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
+## O site
 
-See Poole in action with [the demo site](https://demo.getpoole.com).
+O que você pode encontrar aqui:
 
-There are currently two official themes built on Poole:
+ - [Blog](https://marcosramon.net/blog){:target="_blank"}: <mark>textos</mark> sobre filosofia, arte, ensino e tecnologia.
+ - [Ficções](https://marcosramon.net/ficcoes){:target="_blank"}: um <mark>podcast</mark> sobre filosofia e cotidiano.
+ - [Livros](https://marcosramon.net/livros){:target="_blank"}: lista dos meus <mark>livros publicados</mark>.
+ - [Arquivo](https://marcosramon.net/archive){:target="_blank"}: uma <mark>lista</mark> das publicações por mês e ano.
 
-* [Hyde](https://hyde.getpoole.com)
-* [Lanyon](https://lanyon.getpoole.com)
+Outros links: 
 
-Individual theme feedback and bug reports should be submitted to the theme's individual repository.
+ - [Filosofia](https://marcosramon.net/filosofia){:target="_blank"}: vídeos, podcasts e textos sobre <mark>Filosofia</mark> no Ensino Médio.
+ - [Nintendo Blast](https://www.google.com/search?ei=1YvaXvuqFbay5OUPkOw1&q=marcos+ramon+site%3Anintendoblast.com.br&oq=marcos+ramon+site%3Anintendoblast.com.br&gs_lcp=CgZwc3ktYWIQA1DiFFjiFGCfGGgAcAB4AIAB1QGIAdUBkgEDMi0xmAEAoAECoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi76cCBpOvpAhU2GbkGHRB2DQAQ4dUDCAw&uact=5){:target="_blank"}: link para meus textos sobre <mark>videogames</mark> publicados no site Nintendo Blast.
+ 
+Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
 
+O template que utilizo nesse blog é uma versão customizada do tema [Poole](https://getpoole.com){:target="_blank"}, criado por [Mark Otto](https://twitter.com/mdo){:target="_blank"}.
 
-## Contents
+## Aviso de transparência
 
-- [Usage](#usage)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+Todos os links utilizados nesse site que direcionam para a [Amazon](https://amzn.to/2WsZMV7){:target="_blank"} são links de associado. Se você comprar alguma coisa a partir desses links, você paga o mesmo preço que pagaria acessando diretamente. No entanto, eu ganho uma pequena comissão da Amazon pela compra feita via link vindo do meu site. Obrigado pelo apoio!
+             
+## Uso e compartilhamento
 
-
-## Usage
-
-### 1. Install dependencies
-
-Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
-
-```bash
-$ gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag
-```
-
-**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
-
-**Need syntax highlighting?** Poole includes support for Pygments or Rouge, so install your gem of choice to make use of the built-in styling. Read more about this [in the Jekyll docs](http://jekyllrb.com/docs/templates/#code_snippet_highlighting).
-
-### 2a. Quick start
-
-To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.
-
-### 2b. Roll your own Jekyll site
-
-Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `assets/` for CSS, JS, etc.).
-
-### 3. Running locally
-
-To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/poole` (or whatever your Jekyll site's root directory is named):
-
-```bash
-$ jekyll serve
-```
-
-Open <http://localhost:4000> in your browser, and voilà.
-
-### 4. Serving it up
-
-If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
-
-1. Fork this repo and switch to the `gh-pages` branch.
-  1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
-  2. If you're not using a custom domain name, **modify the `baseurl` in `_config.yml`** to point to your GitHub Pages URL. Example: for a repo at `github.com/username/poole`, use `http://username.github.io/poole/`. **Be sure to include the trailing slash.**
-3. Done! Head to your GitHub Pages URL or custom domain.
-
-No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
-
-## Development
-
-Poole has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+Este é um site pessoal e eu autorizo o compartilhamento, a distribuição e a remixagem de tudo que tem aqui (exceto aquilo que não for de minha autoria, porque aí não depende de mim), desde que o propósito disso não envolva fins comerciais e desde que seja mencionada a fonte original. Mais informações sobre essa licença de uso nesse [link](http://creativecommons.org/licenses/by-nc-sa/3.0/br/){:target="_blank"}.
+     
+[![creative commons](http://i.creativecommons.org/l/by-nc-sa/3.0/br/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/br/)
