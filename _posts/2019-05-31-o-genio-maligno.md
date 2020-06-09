@@ -1,18 +1,13 @@
 ---
 title: "O gênio maligno"
-excerpt: "E não existir um Deus bom, mas sim um gênio maligno, que se diverte com nossa existência?"
+description: "E não existir um Deus bom, mas sim um gênio maligno, que se diverte com nossa existência?"
 date: 2019-05-31
-collection: ficcoes
-categories:
-  - podcast
 tags: 
   - Descartes
   - Metafísica
   - Reflexão
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/O-gnio-maligno-e474od" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
