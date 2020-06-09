@@ -1,9 +1,9 @@
 ---
 title: "Rousseau e a contradição entre as ideias e todo o resto"
-excerpt: "Nesse episódio falo sobre a vida e as ideias de um dos filósofos mais importantes (e contraditórios) de toda a história da Filosofia: Jean-Jacques Rousseau (1712-1778)."
+description: "Nesse episódio falo sobre a vida e as ideias de um dos filósofos mais importantes (e contraditórios) de toda a história da Filosofia: Jean-Jacques Rousseau (1712-1778)."
 date: 2020-05-26
-categories:
-  - ficcoes
+image: ficcoes.jpg
+categories: ficcoes
 tags: 
   - filosofia
   - rousseau
