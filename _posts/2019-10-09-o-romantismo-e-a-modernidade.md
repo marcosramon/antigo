@@ -1,6 +1,6 @@
 ---
 title: "O Romantismo e a modernidade"
-excerpt: "Sobre o Romantismo filosófico e a atualidade de alguns de seus aspectos."
+description: "Sobre o Romantismo filosófico e a atualidade de alguns de seus aspectos."
 image: ficcoes.jpg
 categories: ficcoes
 date: 2019-10-09
