@@ -9,7 +9,7 @@ excerpt: "A estética, como disciplina filosófica, é recente. No entanto, desd
 
 A estética, como disciplina filosófica, é recente. No entanto, desde Platão existem vestígios da reflexão sobre a dança a partir de obras filosóficas. Mas se é verdade que o próprio Platão escreveu sobre a dança em alguns de seus diálogos, o mesmo não vale para a maioria dos pensadores que vieram depois. Por quê?
 
-O filósofo contemporâneo Michel Bernard, em *Parler, penser la danse*, afirma o seguinte:
+O filósofo contemporâneo Michel Bernard, em *[Parler, penser la danse](https://www.cairn.info/revue-rue-descartes-2004-2-page-110.htm#){:target="_blank"}*, afirma o seguinte:
 
 > Se há poucos filósofos que escreveram sobre a dança, é porque talvez tenham sentido confusamente que ela evanescia, evanescia demais, os filósofos não gostam daquilo que escapa, aquilo que escapa às pinças do conceito. Os filósofos que o tentaram são os aventureiros (...) (BERNARD, 2004, p.111-113)
 
@@ -19,7 +19,7 @@ Levando a reflexão para outro campo e pensando na busca por temas de interesse,
 
 Existem muitas definições de filosofia (tantas quantas são os filósofos?), mas é inegável o fato de que o pensamento filosófico se insere quase sempre em uma busca de diálogo com aquilo que pode ser conceituado, ou o trabalho mesmo de construção dos conceitos (DELEUZE; GUATTARI, 1992). Por isso, faz sentido a colocação de Bernard; assim como parece razoável que sejam justamente os filósofos contemporâneos que tenham se dedicado a discutir a dança de forma direta ou indireta (por meio da reflexão sobre o corpo). A contemporaneidade representa, por si só, essa marca da diluição dos conceitos, das certezas, da presença de uma confiança absoluta na razão. E não é esse um caminho aberto para a pesquisa sobre aquilo que exige mais do que a mera capacidade de organização lógica?
 
-No entanto, nem tudo é tão simples. Muitos filósofos contemporâneos que tocam no tema da Filosofia da Arte insistem no esquecimento da dança. Deleuze e Guattari, por exemplo, dedicam um capítulo inteiro de *O que é a filosofia?* para discutir a arte. Eles escrevem sobre artes visuais, literatura, música... e também sobre *corpo* e *carne*, mas a partir de exemplos que eles tiram da escultura ou das artes plásticas. 
+No entanto, nem tudo é tão simples. Muitos filósofos contemporâneos que tocam no tema da Filosofia da Arte insistem no esquecimento da dança. Deleuze e Guattari, por exemplo, dedicam um capítulo inteiro de *[O que é a filosofia?](https://amzn.to/2XKgSQp){:target="_blank"}* para discutir a arte. Eles escrevem sobre artes visuais, literatura, música... e também sobre *corpo* e *carne*, mas a partir de exemplos que eles tiram da escultura ou das artes plásticas. 
 
 No século XX, temos o exemplo de Susanne Langer (1980) como uma autora que se dedicou a explorar a dança em sua reflexão estética[^1]. No entanto, seu livro nem sempre é lembrado e nem está em destaque diante de outros escritores que se dedicaram à Filosofia da Arte em algum aspecto e esqueceram (ou quiseram esquecer) a dança, como Heidegger, Adorno, Umberto Eco, Arthur Danto etc. E se voltarmos um pouco no tempo a situação é ainda mais complicada.
 
@@ -35,7 +35,7 @@ A grande virada na arte do século XX foram os movimentos de vanguarda e a ruptu
 <img src="/assets/images/dance.jpg">
 <small>*Maga Radlowska, Contato-improvisação*</small>
 
-[^1]: Isso acontece em dois capítulos do livro *Sentimento e Forma*, publicado originalmente em 1953.
+[^1]: Isso acontece em dois capítulos do livro *[Sentimento e Forma](https://amzn.to/3dLVXSM){:target="_blank"}*, publicado originalmente em 1953.
 
 [^2]: Hegel considera em sua hierarquia (uma ideia ultrapassada) as seguintes artes: arquitetura, escultura, pintura, música e poesia; sendo a poesia a mais elevada, por ser mais racional, e a arquitetura o seu contraposto. Já Schopenhauer inclui até mesmo a jardinagem dentro de sua hierarquia, mas esquece da dança.
 
@@ -43,9 +43,9 @@ A grande virada na arte do século XX foram os movimentos de vanguarda e a ruptu
 
 ## Referências
 
-BERNARD, Michel. **Parler, penser la danse**. Rue Descartes, Paris, n. 4, 2004/2. 
+BERNARD, Michel. **[Parler, penser la danse](https://www.cairn.info/revue-rue-descartes-2004-2-page-110.htm#){:target="_blank"}**. Rue Descartes, Paris, n. 4, 2004/2. 
 
-DELEUZE, G.; GUATTARI, F. **O que é a filosofia?** Rio de Janeiro: Ed. 34, 1992.
+DELEUZE, G.; GUATTARI, F. **[O que é a filosofia?](https://amzn.to/2XKgSQp){:target="_blank"}** Rio de Janeiro: Ed. 34, 1992.
 
 GIL, José. **Movimento total**. O corpo e a dança. Lisboa: Relógio D’água, 2001.
 
@@ -53,11 +53,11 @@ HEGEL. **Cursos de Estética I**. A idéia do belo artístico. 2o ed, São Paulo
 
 KANT, I. **Crítica da faculdade do juízo**. Rio de Janeiro: Forense Universitária, 1995.
 
-LANGER, Susanne K. **Sentimento e forma**. São Paulo: Perspectiva, 1980.
+LANGER, Susanne K. **[Sentimento e forma](https://amzn.to/3dLVXSM){:target="_blank"}**. São Paulo: Perspectiva, 1980.
 
 PLATÃO. **As leis**. São Paulo: Edipro, 2010.
 
-SCHOPENHAUER, Arthur. **Metafísica do Belo**. São Paulo: Editora UNESP, 2003.
+SCHOPENHAUER, Arthur. **[Metafísica do Belo](https://amzn.to/2UqrkL1){:target="_blank"}**. São Paulo: Editora UNESP, 2003.
 
 Esse texto foi escrito para uma atividade chamada *Jornadas do Corpo*, organizada por professores e estudantes do curso de Licenciatura em Dança do IFB. A conversa ocorreu no dia 02 de Junho de 2020.
 {: .message }
