@@ -24,11 +24,11 @@ Para ouvir todos os episódios use um dos links a seguir:
 
 Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades.
 
-Me ajude a continuar produzindo o podcast e outros projetos na internet: [marcosramon.net/apoie](https://marcosramon.net/apoie)
+Me ajude a continuar produzindo o podcast e outros projetos na internet: [marcosramon.net/apoie](https://marcosramon.net/apoie){:target="_blank"}
 
 ---
 
-Na lista abaixo você encontra algumas publicações. Para acessar os quase 500 episódios, utilize o [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz) ou outro app de sua preferência.
+Na lista abaixo você encontra algumas publicações. Para acessar os quase 500 episódios, utilize o [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz){:target="_blank"} ou outro app de sua preferência.
 <br>
 {% for post in site.categories.ficcoes %}
   <li><span><a href="{{ post.url }}">{{ post.title }}</a></span> &nbsp; <span>{{ post.date | date_to_string }}</span></li>
