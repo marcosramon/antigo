@@ -5,7 +5,8 @@ published: true
 description: "Novos jeitos de continuar ouvindo música"
 date: 2014-05-31
 tags: [som, indico]
-header-img: "/img/sea.jpg"
+image: sea.jpg
+categories: blog
 author: Marcos Ramon
 ---
 
