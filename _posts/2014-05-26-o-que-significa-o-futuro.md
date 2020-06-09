@@ -4,7 +4,8 @@ title: O que significa o futuro?
 description: "Até o séc. XIX falar em futuro talvez fosse falar em algo muito vago. Afinal, era bem provável que os pais e avós tivessem conhecido uma vida bem semelhante àquela que seus filhos e netos agora tinham. Não dava pra imaginar quais mudanças concretas iriam ocorrer no mundo, não dava para prever se haveria um novo modo de interação com as outras pessoas e com o meio ambiente."
 published: true
 tags: [cotidiano, desenho]
-header-img: "/img/abstrato2.jpg"
+image: futuro.jpg
+categories: blog
 date: 2014-05-26
 author: Marcos Ramon
 ---
@@ -17,4 +18,4 @@ Mas isso não é ruim. Na verdade, é até estimulante pensar que eu vou ver ain
      
 Entre um futuro impossível de imaginar quando virá e um futuro que pode ser depois de amanhã, eu definitivamente prefiro a segunda opção. Só espero não ser pego de surpresa quando um drone aparecer na minha porta pra entregar uma pizza...
 
-![O futuro](https://dl.dropboxusercontent.com/u/49566417/blog/O%20futuro.jpg)
+<img src="/assets/images/futuro.jpg">
