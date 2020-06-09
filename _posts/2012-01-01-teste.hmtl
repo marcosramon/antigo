@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teste script
+categories: blog
 ---
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Philosophy + Dance","geo":"","time":"2004-01-01 2020-06-09"},{"keyword":"Philosophy + Art","geo":"","time":"2004-01-01 2020-06-09"},{"keyword":"Philosophy + Music","geo":"","time":"2004-01-01 2020-06-09"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=Philosophy%20%2B%20Dance,Philosophy%20%2B%20Art,Philosophy%20%2B%20Music","guestPath":"https://trends.google.com.br:443/trends/embed/"}); </script>
