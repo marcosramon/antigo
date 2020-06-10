@@ -1,17 +1,12 @@
 ---
 title: "Utopia"
-excerpt: "A utopia revela uma certa ingenuidade."
+description: "A utopia revela uma certa ingenuidade."
 date: 2015-07-16
-collection: ficcoes
-categories:
-  - podcast
 tags: 
   - podcast
   - filosofia
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Utopia-e46q0f" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
