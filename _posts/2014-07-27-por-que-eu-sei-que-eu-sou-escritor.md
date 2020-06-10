@@ -3,7 +3,7 @@ layout: post
 title: Por que eu sei que eu sou escritor?
 published: true
 tags: [cotidiano]
-header-img: "/img/abstrato2.jpg"
+categories: blog
 date: 2014-07-27
 author: Marcos Ramon
 ---
@@ -14,5 +14,3 @@ author: Marcos Ramon
 Considerando isso, quando eu morrer (espero que demore) podem dizer:
      
 > Foi escritor.
-
-<iframe src="//instagram.com/p/q8BBMNPnmW/embed/" width="100%" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
