@@ -4,7 +4,8 @@ title: Não é só um jogo
 description: "O futebol não é só um jogo, mas uma representação da ambiguidade moral humana."
 date: 2014-06-13
 published: true
-header-img: "/img/sky.jpg"
+image: penaltifred.jpg
+categories: blog
 tags: [cotidiano, cultura]
 author: Marcos Ramon
 ---
@@ -21,4 +22,4 @@ Mas o juiz não. Esse não pode errar. Esse não pode ser considerado um ser hum
      
 Estão vendo, não é só um jogo. É a melhor representação do que nós somos.
 
-![Brasil e Croácia](https://dl.dropboxusercontent.com/u/49566417/blog/fred_penalti_brasil_croacia_copadomundo_ribolli1.jpg)
+<img src="/assets/images/penaltifred.jpg">
