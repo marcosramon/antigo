@@ -4,8 +4,9 @@ date: 2014-10-30
 title: Ansiedade
 description: Ansiedade... coisa terrível.
 published: true
+categories: blog
 tags: [cotidiano]
-header-img: "/img/abstrato6.jpg"
+image: https://66.media.tumblr.com/6a368aa785dfe1fa254e6efe0ec6d446/tumblr_ngsk7rtKRf1rwk5rgo1_500.gifv
 author: Marcos Ramon
 ---
 
@@ -19,7 +20,7 @@ Ansiedade... coisa terrível.
 
 [^1]: Mas se nós continuamos sentindo medo mesmo assim isso se dá por motivos que naturalmente o nosso corpo não entende.
 
-![the gif connoisseur](http://api.ning.com/files/ZlBJL*XyKT0m9HLNMQ1PIZvbTB0S61ikf2RSCbHtqyD2nVHpiatrPDG5jZueGD0RX46kKUjz34Q28l8za6-DFk8VuDg40rkU/gifconnoisseur1.gif)
+![the gif connoisseur](https://66.media.tumblr.com/6a368aa785dfe1fa254e6efe0ec6d446/tumblr_ngsk7rtKRf1rwk5rgo1_500.gifv)
 *[The gif connoisseur](http://thegifconnoisseur.tumblr.com/)*
 
 
