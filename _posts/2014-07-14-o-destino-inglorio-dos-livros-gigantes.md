@@ -3,8 +3,9 @@ layout: post
 title: O destino inglório dos livros gigantes
 description: "Eu tinha entrado na Universidade fazia pouco tempo. Era 1999 e eu gostava de bibliotecas. Um dia caminhando pelo corredor de literatura da biblioteca da Universidade vi um livro gigante - e livros gigantes me intrigavam, naquela época."
 published: true
-header-img: "/img/abstrato5.jpg"
+image: joyce-ulysses.jpg
 date: 2014-07-14
+categories: blog
 tags: [cotidiano, literatura]
 author: Marcos Ramon
 ---
@@ -17,4 +18,4 @@ Já nem lembrava mais que existia James Joyce quando, pulando de um link pra out
     
 Eu não vou ler, mas gosto de pensar que ninguém mais vai. Ele está disponível. É só baixar e seguir com parcimônia até o fim. E, sim, isso é um desafio: você acha que consegue? A resposta: não.
 
-![Ulysses](https://dl.dropboxusercontent.com/u/49566417/blog/joyce-ulysses.jpg)
+<img src="/assets/images/joyce-ulysses.jpg">
