@@ -1,18 +1,13 @@
 ---
 title: "Curiosidade"
-excerpt: "Sobre a importância de fazer perguntas."
+description: "Sobre a importância de fazer perguntas."
 date: 2019-05-26
-collection: ficcoes
-categories:
-  - podcast
 tags: 
   - Curiosidade
   - Filosofia
   - Admiração
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Curiosidade-e45c4t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
