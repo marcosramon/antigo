@@ -5,7 +5,8 @@ description: "Ontem separei alguns livros para doar, livros que estavam sem uso,
 published: true
 tags: [cotidiano, leitura, livros]
 date: 2015-11-03
-image: https://db.tt/lZMNJ5RJ
+categories: blog
+image: books.jpg
 author: Marcos Ramon
 ---
 
@@ -31,5 +32,4 @@ Voltando pra casa pesquisei no site da Amazon se existia alguma tradução das *
 
 O desapego tem seus mistérios. E um deles, parece, é conspirar pra gente fazer o que é melhor pra gente e pros outros.
 
-<img src="https://db.tt/lZMNJ5RJ">
-*Historias de la Tierra, por [Arom Estudio](http://www.aromestudio.com/){:target="_blank"}*
+<img src="/assets/images/books.jpg">
