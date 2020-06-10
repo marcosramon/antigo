@@ -4,9 +4,9 @@ date: 2014-11-18
 title: "O direito ao mau humor"
 description: Quem disse que todo mundo tem que sorrir o tempo todo?
 published: true
-image: https://dl.dropboxusercontent.com/u/49566417/blog/images/blakhole.jpg
+categories: blog
 tags: [cotidiano, cultura, sociedade]
-header-img: "/img/abstrato1.jpg"
+image: blackhole.jpg
 author: Marcos Ramon
 ---
 
@@ -25,5 +25,5 @@ Hoje sou professor em instituição pública e se um estudante pergunta a mesma 
 
 O funcionalismo público tem muitos, muitos problemas, mas se tiver que apontar uma grande vantagem, é essa: o direito ao mau humor.
 
-<img src="https://dl.dropboxusercontent.com/u/49566417/blog/images/blakhole.jpg">
+<img src="/assets/images/blackhole.jpg">
 <small>Cenas do clipe *Black Hole Sun*, do Soundgarden. Veja os sorrisos sinceros.</small>
