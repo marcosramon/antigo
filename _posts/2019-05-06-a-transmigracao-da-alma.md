@@ -1,19 +1,13 @@
 ---
 title: "A transmigração da alma"
-excerpt: "Sobre uma crença comum entre os pitagóricos."
+description: "Sobre uma crença comum entre os pitagóricos."
 date: 2019-05-06
-collection: ficcoes
-published: true
-categories:
-  - podcast
 tags: 
   - Alma
   - Existência
   - Pitágoras
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/A-transmigrao-da-alma-e3uufs" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
