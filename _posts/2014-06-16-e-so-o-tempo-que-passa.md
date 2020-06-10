@@ -5,7 +5,8 @@ description: "Todo dia a gente fica mais velho"
 date: 2014-06-16
 published: true
 tags: [cotidiano]
-header-img: "/img/sea.jpg"
+image: ficandovelho.jpg
+categories: blog
 author: Marcos Ramon
 ---
 
@@ -17,4 +18,4 @@ Eu não consegui dizer nada além de: "Não sei, filho. Todo dia a gente fica ma
      
 Vai ver que é só isso, o tempo que passa.
 
-![Tempo](https://dl.dropboxusercontent.com/u/49566417/blog/ficando%20velho.jpg)
+<img src="/assets/images/ficandovelho.jpg">
