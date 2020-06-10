@@ -5,7 +5,8 @@ title: E deu tudo certo
 description: Apesar da minha desconfiança comigo mesmo
 published: true
 tags: [cotidiano]
-header-img: "/img/abstrato5.jpg"
+image: http://40.media.tumblr.com/tumblr_m0s0mhjZ8W1rnqg7ho1_1280.jpg
+categories: blog
 author: Marcos Ramon
 ---
 
@@ -20,6 +21,6 @@ Agora sinto que eu devia descansar, ou simplesmente voltar a tocar o meu baixo, 
 Por outro lado, agora não estou mais ansioso/angustiado/preocupado e isso é muito, muito bom.
 
 ![](http://40.media.tumblr.com/tumblr_m0s0mhjZ8W1rnqg7ho1_1280.jpg)
-*Pintura de [Marcel Ceuppens](http://web.mac.com/marcel.ceuppens/Marcel_Ceuppens/paintings.html#grid)*
+<small>*Pintura de [Marcel Ceuppens](http://web.mac.com/marcel.ceuppens/Marcel_Ceuppens/paintings.html#grid)*</small>
 
 [^1]: No meu caso, eu poderia me atrasar ou algum membro da banca poderia ter um problema de última hora e não ir, levando à remarcação da defesa, por exemplo.
