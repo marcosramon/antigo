@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Piloto automático
-description: "Com certeza sempre teve gente assim, vivendo de maneira mecânica, sem nem perceber o porquê de cada coisa que fazia. Mas antes, talvez, a gente tivesse a desculpa de que garantir a sobrevivência era o mais importante. Afinal, não dá pra pensar muito na vida se ela está em risco a cada instante."
+description: "Com certeza sempre teve gente assim, vivendo de maneira mecânica, sem nem perceber o porquê de cada coisa que fazia. Mas antes, talvez, a gente tivesse a desculpa de que garantir a sobrevivência era o mais importante."
 published: true
 tags: [cotidiano, desenho]
-header-img: "/img/abstrato3.jpg"
+image: piloto.png
+categories: blog
 date: 2014-07-01
 author: Marcos Ramon
 ---
@@ -15,4 +16,4 @@ Mas agora é diferente. A gente sobrevive com mais facilidade e, em tese, a gent
      
 E um dia, quem sabe, tudo se arranja de um jeito bom meio sem querer. Será?
 
-![Aonde estou indo?](https://dl.dropboxusercontent.com/u/49566417/blog/piloto%20automatico.png)
+<img src="/assets/images/piloto.png">
