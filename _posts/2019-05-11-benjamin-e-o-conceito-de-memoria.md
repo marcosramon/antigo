@@ -1,20 +1,14 @@
 ---
 title: "Benjamin e o conceito de memória"
-excerpt: "Sobre a importância de narrar (e lembrar) a própria história."
+description: "Sobre a importância de narrar (e lembrar) a própria história."
 date: 2019-05-11
-collection: ficcoes
-published: true
-categories:
-  - podcast
 tags: 
   - Walter Benjamin
   - História
   - Memória
   - Experiência
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Benjamin-e-o-conceito-de-memria-e40aug/a-aer4lu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
