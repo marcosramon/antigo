@@ -5,7 +5,8 @@ title: Conhecimento rápido
 description: Leitura religiosa fast-food... Sério?
 published: true
 tags: [cotidiano, leitura]
-header-img: "/img/abstrato2.jpg"
+image: knowledge-fast-food-19637437.jpg
+categories: blog
 author: Marcos Ramon
 ---
 
@@ -17,4 +18,4 @@ Pois bem, hoje vi na rua uma pessoa segurando um livro chamado "A bíblia em 100
 
 Livros de divulgação filosófica e científica podem ser pouco úteis, mas livros de divulgação religiosa são potencialmente nocivos. Espero que essa moda acabe.
 
-![fast food de conhecimento](http://thumbs.dreamstime.com/x/knowledge-fast-food-19637437.jpg)
+<img src="/assets/images/knowledge-fast-food-19637437.jpg">
