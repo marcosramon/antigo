@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Escola em tempo integral
-description: "Nesse ano de campanha política a expressão que mais ouvi até agora foi escola em tempo integral. A proposta alardeada de maneira praticamente unânime pela maioria dos candidatos a cargos eletivos não leva em consideração o papel que está se atribuindo à escola. O que é, exatamente, que se busca com uma escola de tempo integral? Uma educação mais adequada, efetiva e significativa, ou simplesmente um lugar mais seguro para os estudantes ficarem durante o dia, enquanto os pais estão fora?"
+description: "Nesse ano de campanha política a expressão que mais ouvi até agora foi escola em tempo integral."
 date: 2014-09-23
-header-img: "/img/post-bg-05.jpg"
+categories: blog
+image: escola.jpg
 published: true
 tags: [ensino, cotidiano]
 ---
@@ -17,7 +18,7 @@ Esse modelo de escola, se focado na transmissão do conhecimento historicamente 
 Transferir a experiência da vida familiar e afetiva para a escola, transformando a escola de tempo integral em um ambiente tão acolhedor quanto a sua própria casa - ouvi um candidato dizer isso - pode fazer muita gente acreditar que o que se transfere é também a responsabilidade da criação dessas crianças e adolescentes.
 Mas espero que eu esteja errado. Afinal, todo mundo sabe que escola é só escola, e não casa.
 
-![escola pública](https://dl.dropboxusercontent.com/u/49566417/Escola-Alemao-size-598.jpg)
+<img src="/assets/images/escola.jpg">
 
 ***
 
