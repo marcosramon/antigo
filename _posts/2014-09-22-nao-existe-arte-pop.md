@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Não existe arte pop...
-description: "A utilização da expressão arte pop remete às experimentações de Richard Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros. O movimento teve início nos anos de 1950 na Inglaterra e logo se expandiu para os Estados Unidos. Apesar desse nome ser difundido como uma escola ou estilo de arte, entendo que a ideia de uma arte pop, em detrimento de uma outra que não o é, traz uma confusão sobre o sentido do que arte pode significar para nós."
+description: "A utilização da expressão arte pop remete às experimentações de Richard Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros."
 date: 2014-09-22
-header-img: "/img/sky2.jpg"
+image: drowninggirl.jpg
+categories: blog
 published: true
 tags: [arte]
 ---
@@ -22,8 +23,8 @@ Dizer que a arte é _pop_ não transforma ela em fenômeno de massas. Boa parte 
 
 A chamada _arte pop_ é arte, boa arte. Esqueça esse _pop_.
 
-![Drowning Girl_Lichtenstein](https://dl.dropboxusercontent.com/u/49566417/blog/Drowning%20Girl_Lichtenstein.jpg)
-*Drowning Girl, de [Roy Lichtenstein](http://en.wikipedia.org/wiki/Roy_Lichtenstein)*
+<img src="/assets/images/drowninggirl.jpg">
+<small>*Drowning Girl, de [Roy Lichtenstein](http://en.wikipedia.org/wiki/Roy_Lichtenstein)*</small>
 
 [^1]: Escute, por exemplo, a filósofa Marcia Tiburi não conseguindo nem de perto explicar o que é uma *filosofia pop* no [Anticast 87](http://www.brainstorm9.com.br/38747/anticast/anticast-87-filosofia-pop-e-estetica-com-marcia-tiburi/)
 
