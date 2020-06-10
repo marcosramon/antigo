@@ -2,9 +2,10 @@
 layout: post
 title: Alguém sabe o que está fazendo?
 published: true
-description: "Trabalho com educação e é impossível eu não pensar sobre como as coisas funcionam em relação ao processo de ensino-aprendizagem. Quer dizer, por que ensinamos da forma como ensinamos? Por que essa estratégia e não outra? Por que esses conteúdos? Isso é realmente importante para a formação dos estudantes?"
+description: "Trabalho com educação e é impossível eu não pensar sobre como as coisas funcionam em relação ao processo de ensino-aprendizagem. Por que ensinamos da forma como ensinamos?"
 date: 2014-06-11
-header-img: "/img/abstrato5.jpg"
+image: temadaula.jpg
+categories: blog
 tags: [cotidiano, ensino]
 author: Marcos Ramon
 ---
@@ -23,4 +24,4 @@ O que eu penso, no entanto, é que qualquer pessoa deve assumir o seu ofício co
      
 Tive muitos professores bons. Eram pessoas que, ainda que não fossem a maioria, eram honestas e se importavam seriamente com o que faziam, mesmo tendo dúvidas sobre tudo. Como eu quero ser para os meus estudantes o mesmo que esses bons professores foram para mim, eu vou continuar pensando sobre o que eu faço. Com poucas certezas, com muitas dúvidas e sempre pensando, observando, criando alternativas... E, principalmente, com muito cuidado pra eu não me tornar mais um professor insatisfeito esbravejando besteiras. Até porque já existem muitos desses e eu prefiro ser diferente. Bem diferente.
 
-![Tema da aula](https://dl.dropboxusercontent.com/u/49566417/blog/tema%20da%20aula.jpg)
+<img src="/assets/images/temadaaula.jpg">
