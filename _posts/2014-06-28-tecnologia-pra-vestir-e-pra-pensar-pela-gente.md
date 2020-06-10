@@ -4,7 +4,8 @@ title: Tecnologia pra vestir - e pra pensar pela gente
 published: true
 description: "Queremos mais tecnologia pra nos vigiar?"
 date: 2014-06-28
-header-img: "/img/abstrato5.jpg"
+image: abstrato5.jpg
+categories: blog
 tags: [tecnologia, internet]
 ---
 
