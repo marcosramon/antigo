@@ -5,7 +5,8 @@ published: true
 description: "Você se deixa vigiar mais do que devia?"
 date: 2014-05-23
 tags: [tecnologia, internet]
-header-img: "/img/sky.jpg"
+image: googlehistory.png
+categories: blog
 author: Marcos Ramon
 ---
 
@@ -13,7 +14,7 @@ Tá aqui uma coisa que talvez faça você pensar sobre o fato de que não temos 
      
 Aqui um exemplo do meu histórico no dia de ontem:
 
-![Google History](https://dl.dropboxusercontent.com/u/49566417/blog/Google%20history.png)
+<img src="/assets/images/googlehistory.png">
 
 É meio assustador, não é?
      
