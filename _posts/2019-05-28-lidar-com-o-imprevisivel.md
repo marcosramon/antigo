@@ -1,18 +1,13 @@
 ---
 title: "Lidar com o imprevisível"
-excerpt: "Sobre não conseguir controlar tudo."
+description: "Sobre não conseguir controlar tudo."
 date: 2019-05-28
-collection: ficcoes
-categories:
-  - podcast
 tags: 
   - Comportamento
   - Cotidiano
   - Imprevisibilidade
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Lidar-com-o-imprevisvel-e462jf" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
