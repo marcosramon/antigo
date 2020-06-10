@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Conectados
-description: "Eu tenho uma desconfiança. Mas uma desconfiança boa,  não se assuste.
-É o seguinte: mesmo nos isolando de maneira propositada e aparentemente crentes de que estamos isentos dos problemas que vivenciamos e da responsabilidade de vivermos da maneira como vivemos, desconfio que lá no fundo todo e qualquer ser humano sente que estamos conectados."
+description: "Eu tenho uma desconfiança. Mas uma desconfiança boa, não se assuste."
 published: true
 tags: [cotidiano]
 date: 2015-11-12
-image: https://db.tt/YCYghdkr
+categories: blog
 author: Marcos Ramon
 ---
 
@@ -26,6 +25,3 @@ Porque pensar é não compreender...<br>
 Acho que é isso. Sentimos que somos um, parte de um mesmo mundo, sintomas dos mesmos problemas e solução deles. Mas pensamos demais, racionalizamos demais, e acabamos deixando de lado essa intuição forte e poderosa que nos diz que viver em sociedade é simples, que sentir compaixão não é uma utopia, que olhar pro outro é também se reconhecer a cada momento...
 
 Espero que a gente supere esse ideal de razão, controle e medida, que condiciona a nossa vida já há tanto tempo. Se existe um futuro pra gente, esse futuro tem a ver com isso: aceitar nossos sentidos, viver nossa materialidade, entender a nossa natureza.
-
-<img src="https://db.tt/YCYghdkr">
-<small>*Ilustração de [Klaas Verplancke](http://klaasverplancke.tumblr.com/){:target="_blank"}*</small>
