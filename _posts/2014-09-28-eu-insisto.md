@@ -5,7 +5,8 @@ description: "insisto porque não sei ser diferente disso que eu sou. Isso que e
 date: 2014-09-28
 published: true
 tags: [cotidiano]
-header-img: "/img/post-bg-02.jpg"
+image: rajdhunna.jpg
+categories: blog
 author: Marcos Ramon
 ---
 
@@ -15,5 +16,5 @@ Me comove - ou me incomoda? - o fato de eu não saber ser outro, de não consegu
 
 Eu sei que tudo que escrevo parece um lamento. Mas é que eu insisto em ser quem eu sou... e não sei ser diferente.
 
-![Raj Dhunna](https://dl.dropboxusercontent.com/u/49566417/blog/Raj%20Dhunna.jpg)
-*Ilustração de [Raj Dhunna](http://rajdh.tumblr.com/)*
+<img src="/assets/images/rajdhunna.jpg">
+<small>*Ilustração de [Raj Dhunna](http://rajdh.tumblr.com/)*</small>
