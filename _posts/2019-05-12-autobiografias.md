@@ -1,20 +1,14 @@
 ---
 title: "Autobiografias"
-excerpt: "Os relatos pessoais são mais verdadeiros do que a história?"
+description: "Os relatos pessoais são mais verdadeiros do que a história?"
 date: 2019-05-12
-collection: ficcoes
-published: true
-categories:
-  - podcast
 tags: 
   - Schopenhauer
   - História
   - Autobiografia
   - Conhecimento
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Autobiografias-e40pl1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
