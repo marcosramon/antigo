@@ -1,18 +1,13 @@
 ---
 title: "Filosofia indiana no Ocidente"
-excerpt: "Sobre a recepção e interpretação da filosofia indiana na cultura ocidental."
+description: "Sobre a recepção e interpretação da filosofia indiana na cultura ocidental."
 date: 2019-05-21
-collection: ficcoes
-categories:
-  - podcast
 tags: 
   - Filosofia indiana
   - Oriente
   - História da filosofia
-image: 
-  path: /assets/images/ficcoes.jpg
-  thumbnail: assets/images/ficcoes400x200.jpg
-  caption: "Podcast Ficções"
+image: ficcoes.jpg
+categories: ficcoes
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Filosofia-indiana-no-Ocidente-e43qki" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
