@@ -15,7 +15,7 @@ Sobre a reflexão filosófica a partir da dança (ou a ausência dela).
 
 Texto mencionado: "[Por que a filosofia foge da dança?](https://marcosramon.net/blog/por-que-a-filosofia-foge-da-danca)" 
 
-Recentemente participei do podcast Arco 43 falando sobre "[o podcast como ferramenta de aprendizagem](https://editoradobrasil.podbean.com/e/arco43-41-o-podcast-como-ferramenta-de-aprendizagem/)" 
+Recentemente participei do podcast Arco 43 falando sobre "[o podcast como ferramenta de aprendizagem](https://editoradobrasil.podbean.com/e/arco43-41-o-podcast-como-ferramenta-de-aprendizagem/)". 
 
 Meu canal no Youtube: [Conexão Filosófica](https://www.youtube.com/ConexaoFilosofica)
 
