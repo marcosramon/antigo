@@ -35,11 +35,11 @@ Mas o senso comum sobre a ciência nos diz apenas que conhecimento científico �
 
 Para [Thomas Kuhn](https://g.co/kgs/kJWMgu){:target="blank"}, autor do livro "[A estrutura das revoluções científicas](https://amzn.to/3eW0bXB){:target="_blank"}", de 1962, o que importa no fazer científico não é a sua capacidade de alcançar verdades absolutas, mas sim a sua relevância histórica e a dinâmica do progresso científico que, na interpretação deste autor, ocorre através da adesão a determinados paradigmas. A teoria de Kuhn pode ser sintetizada em algumas etapas simples:
 
-1) <b>pré-ciência</b>, o momento em que ainda não possuímos conhecimentos estabelecidos na comunidade científica em determinada área;
-2) <b>ciência normal</b>, quando a comunidade adere à uma interpretação ou teoria que aborda o tema em questão;
-3) <b>crise-revolução</b>, quando a teoria começa a apresentar problemas internos que não são facilmente resolvidos, demandando o surgimento de novas teorias;
-4) <b>nova ciência</b>, algo que se dá quando a comunidade científica migra para uma explicação mais viável que a anterior;
-5) <b>nova crise</b>, que são problemas e falhas na nova teoria que nos levam a uma nova ciência normal e assim por diante.
+ 1. <b>pré-ciência</b>, o momento em que ainda não possuímos conhecimentos estabelecidos na comunidade científica em determinada área;
+ 2. <b>ciência normal</b>, quando a comunidade adere à uma interpretação ou teoria que aborda o tema em questão;
+ 3. <b>crise-revolução</b>, quando a teoria começa a apresentar problemas internos que não são facilmente resolvidos, demandando o surgimento de novas teorias;
+ 4. <b>nova ciência</b>, algo que se dá quando a comunidade científica migra para uma explicação mais viável que a anterior;
+ 5. <b>nova crise</b>, que são problemas e falhas na nova teoria que nos levam a uma nova ciência normal e assim por diante.
 
 Para exemplificar a tese de Kuhn um bom exemplo é a teoria copernicana. Por muito tempo convivemos com a ideia do sistema ptolomaico, em que a Terra é considerada o centro do universo. A adoção do sistema copernicano, em que Sol passa a ser o centro do nosso sistema, ocorreu não porque era verdade, mas por outros motivos: porque era uma forma mais simples de explicação, porque favorecia uma reforma no calendário ou porque era uma forma de combater determinados dogmas religiosos. Todas essas respostas são válidas, mas não expressam necessariamente verdades.
 
