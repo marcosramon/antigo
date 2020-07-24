@@ -6,7 +6,7 @@ image: classroom.png
 title: Através de mim
 excerpt: "Sobre as frustrações do trabalho com educação"
 ---
-Uma das piores coisas de ser professor — e tem muitas coisas ruins em ser professor — é a sensação de perceber que os estudantes não estão ali. Fisicamente, óbvio, estão. Mas fazendo outra coisa, que não tem nada a ver com a aula. Conversando, lendo material de outra disciplina, dormindo, olhando através de você. Nesses momentos, ao perceber isso, eu sempre me sinto ridículo.
+Uma das piores coisas de ser professor — e, infelizmente, ainda existe muita coisa ruim na profissão — é a sensação de perceber que os estudantes não estão ali. Fisicamente, óbvio, estão. Mas fazendo outra coisa, que não tem nada a ver com a aula. Conversando, lendo material de outra disciplina, dormindo, olhando através de você. Nesses momentos, ao perceber isso, eu sempre me sinto ridículo.
 
 Quem trabalha com sala de aula costuma, nesses momentos, se iludir dizendo pra si mesmo: eu dou aula para os que querem. Tem gente que sabe aproveitar. 
 
