@@ -12,7 +12,7 @@ Quem trabalha com sala de aula costuma, nesses momentos, se iludir dizendo pra s
 
 Verdade. E mentira. 
 
-Verdade porque sempre tem alguém que quer aula. Mesmo nos meus piores dias eu nunca acreditei que realmente estava falando pra ninguém. Mas mentira porque só isso não basta. Porque a questão não é quantos estão dando atenção para o que você diz, mas sim a sensação de ridículo de sentir que, muitas vezes, o que você faz não tem sentido nenhum, não importa.
+Verdade porque sempre tem alguém que quer aula. Mesmo nos meus piores dias eu nunca acreditei que realmente estava falando pra ninguém. Mas mentira porque só isso não basta. Porque a questão não é quantos estão dando atenção para o que você diz, mas sim a sensação de ridículo de sentir que, muitas vezes, o que você faz não tem sentido nenhum, que não importa.
 
 Na maior parte do tempo, em relação ao meu trabalho, o que sinto é um desgosto profundo por estar desperdiçando parte do que eu sou em uma tarefa que não sei se vale alguma coisa. 
 
