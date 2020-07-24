@@ -33,7 +33,8 @@ Tá vendo? Idolatramos tanto a ciência que distorcemos até mesmo suas intenç�
 
 Mas o senso comum sobre a ciência nos diz apenas que conhecimento científico é conhecimento comprovado, é verdade testada e demonstrada. E nós acabamos acreditando em toda divulgação de pesquisa científica que chega até a gente com gráficos, porcentagens e conclusões derivadas de experimentos. Mas será que a ideia de uma comprovação na ciência se aplica mesmo a toda e qualquer ciência? 
 
-Para [Thomas Kuhn](https://g.co/kgs/kJWMgu){:target="blank"}, autor do livro "[A estrutura das revoluções científicas](https://amzn.to/3eW0bXB){:target="_blank"}", de 1962, o que importa no fazer científico não é a sua capacidade de alcançar verdades absolutas, mas sim a sua relevância histórica e a dinâmica do progresso científico que, na interpretação deste autor, ocorre através da adesão a determinados paradigmas. A teoria de Kuhn pode ser sintetizada em algumas etapas simples: 
+Para [Thomas Kuhn](https://g.co/kgs/kJWMgu){:target="blank"}, autor do livro "[A estrutura das revoluções científicas](https://amzn.to/3eW0bXB){:target="_blank"}", de 1962, o que importa no fazer científico não é a sua capacidade de alcançar verdades absolutas, mas sim a sua relevância histórica e a dinâmica do progresso científico que, na interpretação deste autor, ocorre através da adesão a determinados paradigmas. A teoria de Kuhn pode ser sintetizada em algumas etapas simples:
+
 1) <b>pré-ciência</b>, o momento em que ainda não possuímos conhecimentos estabelecidos na comunidade científica em determinada área;
 2) <b>ciência normal</b>, quando a comunidade adere à uma interpretação ou teoria que aborda o tema em questão;
 3) <b>crise-revolução</b>, quando a teoria começa a apresentar problemas internos que não são facilmente resolvidos, demandando o surgimento de novas teorias;
