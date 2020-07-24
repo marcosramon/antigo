@@ -14,9 +14,7 @@ Verdade. E mentira.
 
 Verdade porque sempre tem alguém que quer aula. Mesmo nos meus piores dias eu nunca acreditei que realmente estava falando pra ninguém. Mas mentira porque só isso não basta. Porque a questão não é quantos estão dando atenção para o que você diz, mas sim a sensação de ridículo de sentir que, muitas vezes, o que você faz não tem sentido nenhum, que não importa.
 
-Na maior parte do tempo, em relação ao meu trabalho, o que sinto é um desgosto profundo por estar desperdiçando parte do que eu sou em uma tarefa que não sei se vale alguma coisa. 
-
-A docência pode ser terrível. Às vezes você acha que pode fazer e criar coisas importantes, gerar empatia, conectar pessoas. Mas na maior parte do tempo a gente é só mais um lutando com os medos e vontades. 
+Na maior parte do tempo, em relação ao meu trabalho, o que sinto é um desgosto profundo por estar desperdiçando parte do que eu sou em uma tarefa que não sei se vale alguma coisa. Mas no fundo eu sei que isso não é verdade. Por isso, a docência é tão ambígua, e até terrível. Às vezes você acha que pode fazer e criar coisas importantes, gerar empatia, conectar pessoas. Mas na maior parte do tempo a gente é só mais um lutando com os medos e vontades. 
 
 Existem coisas boas na docência, e eu respeito e valorizo o meu trabalho. Por isso, vou continuar fazendo o que eu faço da melhor forma possível, entregando o melhor que eu puder. Mas as coisas piores impactam mais. O pessimismo, escreveu Schopenhauer, protege a gente contra a inocente crença de que existe felicidade plena, de que as coisas podem ser absolutamente boas. E é só isso que ainda me faz olhar pra sala de aula com alguma esperança. Não tem nenhuma aula realmente perfeita, então as minhas também não são tão ruins assim. Mesmo eu falando pra ninguém. Mesmo as pessoas olhando através de mim.
 
