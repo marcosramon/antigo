@@ -1,6 +1,6 @@
 ---
 title: "Heráclito, O Obscuro"
-description: "No livro 'Pensamentos' Pascal contesta a ideia de que o nosso destino é buscar conhecer tudo o que existe. Afinal, 'como poderia uma parte conhecer o todo?'"
+description: "Já falei sobre Heráclito antes aqui no podcast, e é bem provável que eu esteja me repetindo."
 date: 2020-07-22
 image: ficcoes.jpg
 categories: ficcoes
