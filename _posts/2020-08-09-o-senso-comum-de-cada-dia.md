@@ -15,7 +15,7 @@ Quando desconfiamos das provas, dos métodos, dos experimentos… não estamos a
 
  > O conhecimento científico é conhecimento confiável porque é conhecimento provado objetivamente. ([O que é ciência, afinal?](https://amzn.to/2F7ZTki), Alan Chalmers)
 
-Mesmo assim, é fato que a ciência tem seus erros, por isso questione a ciência e não aceite qualquer resposta como correta. Mas o fato de que a ciência pode falhar não deve ser desculpa para buscarmos o oposto dela. E na dúvida, prefira o senso comum ao negacionismo do conhecimento –  esse não traz nos traz vantagem alguma.
+Mesmo assim, é fato que a ciência tem seus erros. Por isso, a questione e não aceite qualquer resposta como correta. Contudo, a possibilidade da falha no saber acadêmico não deve ser desculpa para buscarmos o seu oposto. E na dúvida, prefira o senso comum ao negacionismo do conhecimento – esse não nos traz vantagem alguma.
 
 [^1]: O físico <a href="https://g.co/kgs/njJ7JZ">Niels Bohr</a>, por exemplo, tinha uma ferradura em sua porta, por superstição. 
 
