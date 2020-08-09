@@ -7,7 +7,7 @@ title: O valor do absurdo
 excerpt: "Sobre a palavra o surgimento da palavra surrealismo"
 ---
 
-Quando eu estava na escola, um dia o professor de literatura, falando sobre vanguardas, mencionou o surrealismo. Lembro que quando terminou a aula fui a biblioteca procurar livros sobre o assunto e aquele me pareceu ser o movimento de vanguarda mais interessante. E ainda hoje penso assim. Inclusive, por muito tempo, eu tive um blog chamado Arcano5. E isso título era uma variação de um dos meus livros preferidos, Arcano17, de André Breton, o fundador do movimento surrealista.
+Lembro de uma aula em que o meu professor de literatura (ainda no Ensino Médio), falando sobre vanguardas, mencionou o surrealismo. Quando terminou a aula fui à biblioteca procurar livros sobre o assunto e aquele me pareceu desde logo o movimento de vanguarda mais interessante. Ainda hoje penso assim. Inclusive, por muito tempo, eu tive um blog chamado Arcano5. Esse título era uma variação de um dos meus livros preferidos, Arcano17, de André Breton, o fundador do movimento surrealista.
 
 A palavra "surrealismo" foi criada, provavelmente, pelo poeta francês Apollinaire. Pelo que se sabe, ele usou a palavra duas vezes em 1917. A primeira vez foi para descrever uma peça dele mesmo. A peça se chamava "As mamas de Tirésias" e conta a história de uma mulher que não queria ser mãe. Ela diz que preferia ir à guerra do que se mãe e vê os seus seios se desprendendo do corpo. O marido dela diz então que iria ter os filhos por conta própria e, de fato, dá a luz a 40.049 bebês. Como o próprio Apollinaire dizia, um drama surrealista. 
 
