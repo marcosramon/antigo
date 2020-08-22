@@ -4,7 +4,7 @@ published: true
 categories: blog
 image: cat.png
 title: Duvidar para fazer as perguntas certas
-excerpt: "Lendo Montaigne é possível perceber que nós, erroneamente, temos muito medo do ceticismo"
+excerpt: "Lendo Montaigne é possível perceber que nós, erroneamente, temos muito medo do ceticismo."
 ---
 
 Estou lendo atualmente um livro sobre Montaigne chamado “[Quando brinco com minha gata, como sei que ela não está brincando comigo?](https://amzn.to/3hm7MRn)”. O título é longo e curioso, mas se justifica diante do ceticismo de [Montaigne](https://g.co/kgs/eKMDto), que viveu e produziu sua obra durante o Renascimento, uma época de muitas certezas e de embates entre aqueles que acreditavam possuir certezas. Óbvio que muitas delas contraditórias entre si. Sobre a questão da gata, o que Montaigne questiona em um de seus ensaios é se os animais não possuem mesmo uma consciência, uma linguagem ou mesmo uma capacidade de decidir a partir de seus próprios critérios. Vale lembrar que Descartes defendia a condição da natureza mecânica dos outros animais e da própria natureza, em oposição à consciência humana. Essa foi a versão sobre a natureza mundo que venceu, mas Montaigne, colocando quase tudo em dúvida, coloca para si mesmo esse desafio: será que sou apenas eu que brinco com minha gata, ou ela me usa para que eu brinque com ela, quando ela quer, do jeito dela? A resposta pode parecer fácil, mas não é tanto assim.
