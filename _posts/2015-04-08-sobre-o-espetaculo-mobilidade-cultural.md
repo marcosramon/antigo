@@ -13,7 +13,7 @@ Enquanto assistia ao espetáculo eu pensava: “por que eu não sou esses corpos
 
 <img src="/assets/images/corpos.png">
 
-Platão escreveu que amor é falta ( eros), mas também pode ser alegria ( philia). O amor é a dor de se desejar o que não se pode ter. Por outro lado, quando amamos nos enchemos de alegria só pelo fato desse amor existir.
+Platão escreveu que amor é falta (eros), mas também pode ser alegria (philia). O amor é a dor de se desejar o que não se pode ter. Por outro lado, quando amamos nos enchemos de alegria só pelo fato desse amor existir.
 
 Dizer que amei tudo o que vi, ouvi e senti por causa de vocês é fazer uso de uma abstração que talvez faça pouco sentido (afinal, usamos tanto a palavra “amor” que ela praticamente não serve mais pra nada). Ou então pode parecer simplesmente um exagero. Mas é preciso dizer que nunca se ama demais, só se ama errado, com pouco ímpeto e loucura.
 
