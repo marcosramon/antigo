@@ -14,6 +14,7 @@ O nosso modelo educacional nos leva a entender o conhecimento como uma produçã
 Aristóteles escreveu que “todos os homens têm, por natureza, desejo de conhecer” (ARISTÓTELES. Metafísica, Livro I, capítulo 1. São Paulo: Ed. Abril Cultural, 1973). Com isso ele não queria, necessariamente, afirmar que todos gostam de estudar, mas sim que temos um ímpeto natural de curiosidade e interesse. Ken Robinson, no vídeo a seguir, trata exatamente desta questão:
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/pt-br/sir_ken_robinson_do_schools_kill_creativity" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<br>
 
 A criatividade precisa de muito pouco para se desenvolver. E com a criatividade, vem o conhecimento. Muitas pessoas que produziram coisas incríveis estavam realmente acima da média. Mas não porque nasceram com um dom inato que tornou inevitável cada conquista que realizaram. Eles foram incríveis, na minha opinião, porque se dispuseram a olhar para frente insistindo em seu direito mais básico: o direito de interferir positivamente na realidade, criando, refletindo, deixando uma marca no mundo. Nem todos farão isso, certamente. Mas todos podemos fazer. E saber disso já muda tudo.
 
