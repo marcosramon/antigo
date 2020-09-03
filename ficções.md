@@ -33,15 +33,3 @@ Na lista abaixo você encontra algumas publicações. Para acessar os quase 500 
 {% for post in site.categories.ficcoes %}
   <li><span><a href="{{ post.url }}">{{ post.title }}</a></span> &nbsp; <span>{{ post.date | date_to_string }}</span></li>
 {% endfor %}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Anúncio 1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5950333929392132"
-     data-ad-slot="6157380551"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
