@@ -11,7 +11,9 @@ No nosso cotidiano convivemos com o dilema de ver a realidade competindo com as 
 
 Se a única coisa que possuíssemos fosse uma capacidade pura e simples de entender a realidade dos fatos, a nossa vida seria insuportável e não encontraríamos prazer em quase nada. É a ausência de um senso de urgência constante que nos permite ter sonhos, fantasias e momentos de satisfação.
 
-A realidade, contudo, acaba se impondo em algum momento da existência. O que nos faz acordar — tendo uma revelação da fatalidade da existência e da ausência de sentido de quase tudo — é simplesmente o processo de estar vivo e pensando. É difícil se enganar o tempo todo. E em algum momento perdemos a batalha para nós mesmos, vislumbrando nossos sentimentos e nos reconhecendo como seres imperfeitos e reais. E isso não é, necessariamente, algo terrível, ainda que seja difícil de admitir.
+A realidade, contudo, acaba se impondo em algum momento da existência[^1]. O que nos faz acordar — tendo uma revelação da fatalidade da existência e da ausência de sentido de quase tudo — é simplesmente o processo de estar vivo e pensando. É difícil se enganar o tempo todo. E em algum momento perdemos a batalha para nós mesmos, vislumbrando nossos sentimentos e nos reconhecendo como seres imperfeitos e reais. E isso não é, necessariamente, algo terrível, ainda que seja difícil de admitir.
 
 <img src="/assets/images/loreal.jpeg">
 <small>Fotografia de <a href="https://www.lorealprystaj.com/">Loreal Prystaj</a></small>
+
+[^1]: Por isso os autores do pragmatismo (especialmente Charles Peirce) defendiam a perspectiva do apoio irrestrito à realidade. Se o real é tudo o que nos resta, por que buscar apoio em ideias metafísicas? Não seria apenas perder tempo?
