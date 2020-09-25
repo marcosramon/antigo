@@ -2,7 +2,7 @@
 layout: post
 title: "Ficções #02 - A medida do tempo"
 description: "O ser humano é provavelmente o único animal que não tem uma experiência do tempo limitada ao presente. O que isso nos permite?"
-published: true
+published: false
 tags: [podcast, filosofia]
 image: ficcoes.jpg
 categories: ficcoes
