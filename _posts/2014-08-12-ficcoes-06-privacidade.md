@@ -3,7 +3,7 @@ layout: post
 date: 2014-08-12
 title: "Ficções #06 - Privacidade"
 description: "A privacidade ainda é um valor importante na atualidade?"
-published: true
+published: false
 tags: [podcast, filosofia]
 image: ficcoes.jpg
 categories: ficcoes
