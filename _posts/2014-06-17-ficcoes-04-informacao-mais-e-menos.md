@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ficções #04 - Informação (mais é menos?)"
-published: true
+published: false
 description: "Vivemos em uma época em que nunca foi tão fácil ter acesso à informação. Quais são as implicações disso?"
 tags: [podcast, filosofia]
 image: ficcoes.jpg
