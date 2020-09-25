@@ -3,7 +3,7 @@ layout: post
 date: 2014-08-17
 title: "Ficções #07 - Eu sou o meu corpo?"
 description: "O nosso corpo define o que nós somos?"
-published: true
+published: false
 tags: [podcast, filosofia]
 image: ficcoes.jpg
 categories: ficcoes
