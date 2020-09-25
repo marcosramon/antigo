@@ -4,7 +4,7 @@ date: 2014-12-25
 title: "Ficções #10 - Cidade"
 description: "Neste episódio eu falo sobre cidades. O surgimento da Filosofia tem conexão com o desenvolvimento dos centros urbanos, principalmente por conta da possibilidade de interação e troca de informações e conhecimentos."
 duration: 08:42
-published: true
+published: false
 tags: [podcast, filosofia]
 author: Marcos Ramon
 image: ficcoes.jpg
