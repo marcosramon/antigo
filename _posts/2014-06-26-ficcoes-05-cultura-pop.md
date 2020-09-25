@@ -3,7 +3,7 @@ layout: post
 date: 2014-06-26
 title: "Ficções #05 - Cultura pop"
 description: "O que perdemos quando vivemos em uma cultura que é a mesma para todos?"
-published: true
+published: false
 tags: [podcast, filosofia]
 image: ficcoes.jpg
 categories: ficcoes
