@@ -2,7 +2,7 @@
 layout: post
 title: "Ficções #01 - O que não se pode falar"
 description: "Vivemos em uma cultura de excessos, em que falamos demais e sobre todas as coisas. Por que é tão difícil ficar em silêncio?"
-published: true
+published: false
 tags: [podcast, filosofia]
 image: ficcoes.jpg
 categories: ficcoes
