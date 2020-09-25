@@ -4,7 +4,7 @@ date: 2014-11-27
 title: "Ficções #09 - Um pouco de verdade"
 description: "Geralmente associamos a verdade como aquilo que se adequa ou explica a realidade. Mas isso é suficiente para compreendermos o que a verdade realmente é?"
 duration: 07:48
-published: true
+published: false
 tags: [podcast, filosofia]
 author: Marcos Ramon
 image: ficcoes.jpg
