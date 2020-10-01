@@ -16,7 +16,7 @@ Olá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia tra
 
 Mas antes, vou me apresentar para você:
 
-<img src:"/assets/images/apresentacao.png">
+<img src="/assets/images/apresentacao.png">
 
 Certo, agora vamos ao trabalho! O conteúdo de Filosofia no 2º ano aborda a Teoria do Conhecimento. Essa é a área da Filosofia que aborda três questões específicas:
 
