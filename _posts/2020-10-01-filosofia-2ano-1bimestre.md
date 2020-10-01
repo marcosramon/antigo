@@ -26,7 +26,7 @@ Certo, agora vamos ao trabalho! O conteúdo de Filosofia no 2º ano aborda a Teo
 
 O objetivo dessa unidade, portanto, é debater esses temas e analisar as diferentes respostas para essas questões. Assim, vamos seguir nessa ordem e vou apresentar algumas questões para você refletir, certo?
 
-O que é o conhecimento?
+## O que é o conhecimento?
 
 Pode parecer meio óbvio pensar sobre o conhecimento, mas não é tanto assim. Por exemplo: os insetos e os outros animais produzem conhecimento? Abelhas, capivaras, peixes e leões são capazes de conhecer? O que você acha?
 
