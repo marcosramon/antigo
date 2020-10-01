@@ -8,7 +8,7 @@ excerpt: "Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria d
 ---
 
 - [Apresentação](#apresentação)
-- [O que é o conhecimento?](#o-que-e-o-conhecimento)
+- [O que é o conhecimento?](#o-que-e-o-conhecimento?)
 
 ## Apresentação
 
