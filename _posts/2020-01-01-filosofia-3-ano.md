@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 categories: blog
 image: mariaramos.jpeg
 title: Filosofia 3º ano
