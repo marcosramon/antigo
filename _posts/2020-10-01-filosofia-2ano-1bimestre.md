@@ -11,6 +11,9 @@ lá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia trab
 - [Apresentação](#apresentação)
 - [O que é o conhecimento?](#o-que-é-o-conhecimento)
 - [É possível conhecer?](#é-possível-conhecer)
+  * [Ceticismo](#ceticismo)
+  * [Dogmatismo](#dogmatismo)
+- [Questionários no Kahoot](#questionários-no-kahoot)  
 
 ## Apresentação
 
