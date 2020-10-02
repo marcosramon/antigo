@@ -6,7 +6,7 @@ image: conhecimento.png
 title: Filosofia 2º ano (1º Bimestre)
 excerpt: "Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria do conhecimento"
 ---
-lá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia trabalhados no 1º Bimestre (2020) para o estudantes do 2º ano do Curso Técnico em Informática Integrado ao Ensino Médio (IFB). Agora, se você não é desse curso, mas tiver interesse no assunto, pode ler também, viu? Não se acanhe não. Para facilitar o acesso, utilzie o índice abaixo:
+Olá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia trabalhados no 1º Bimestre (2020) para o estudantes do 2º ano do Curso Técnico em Informática Integrado ao Ensino Médio (IFB). Agora, se você não é desse curso, mas tiver interesse no assunto, pode ler também, viu? Não se acanhe não. Para facilitar o acesso, utilzie o índice abaixo:
 
 - [Apresentação](#apresentação)
 - [O que é o conhecimento?](#o-que-é-o-conhecimento)
