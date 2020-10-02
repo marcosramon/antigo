@@ -90,9 +90,9 @@ Agora, sobre a possibilidade do conhecimento, existem algumas respostas para ana
 
 O ceticismo é a doutrina que defende que não é possível alcançar o conhecimento certo e seguro. Para os céticos (e Pirro de Élida foi o primeiro deles) nós podemos ter crenças, e talvez algumas delas sejam verdadeiras. No entanto, não é possível justificá-las. E eles utilizam três argumentos para ponderar sobre isso:
 
-1. Argumento da divergência de opiniões: seja qual for o assunto, sempre haverá divergências de opinião, mesmo entre os especialistas. Por isso, nenhuma opinião é plenamente justificada.
-2. Argumento da falha na percepção: os nossos sentidos não funcionam do mesmo jeito. As pessoas nem sempre vêem ou escutam da mesma forma. Por isso, a percepção é fonte de dúvida e não de certezas.
-3. Argumento da regressão infinita: muitas vezes, para tentar explicar uma coisa, recorremos a explicações anteriores, e a outras anteriores, e outras anteriores… de forma que não existe uma explicação definitiva para nada.
+1. **Argumento da divergência de opiniões:** seja qual for o assunto, sempre haverá divergências de opinião, mesmo entre os especialistas. Por isso, nenhuma opinião é plenamente justificada.
+2. **Argumento da falha na percepção:** os nossos sentidos não funcionam do mesmo jeito. As pessoas nem sempre vêem ou escutam da mesma forma. Por isso, a percepção é fonte de dúvida e não de certezas.
+3. **Argumento da regressão infinita:** muitas vezes, para tentar explicar uma coisa, recorremos a explicações anteriores, e a outras anteriores, e outras anteriores… de forma que não existe uma explicação definitiva para nada.
 
 <iframe width="663" height="382" src="https://www.youtube.com/embed/v5sMfTLQazc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f42d87ef682d43f1c0d3083">link do Edpuzzle</a>.</small>
