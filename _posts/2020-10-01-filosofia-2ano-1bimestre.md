@@ -118,4 +118,4 @@ Bem, acabou. Mas antes de sair, deixa eu perguntar uma coisa: você gosta de est
 - [Revisão Teoria do Conhecimento — aula 4](https://create.kahoot.it/v2/details/55f5b115-114d-4d07-8e48-d81ce2da763b)
 - [Revisão Teoria do Conhecimento — aula 5](https://create.kahoot.it/v2/details/27b7971d-15ce-429f-8c7c-c4be485ce42e)
 
-<a href="mailto:marcos.ferreira@ifb.edu.br"><img src="/assets/images/duvidas.png"></a>
+<a href="mailto:marcos.ferreira@ifb.edu.br" target="_blank"><img src="/assets/images/duvidas.png"></a>
