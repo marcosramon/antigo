@@ -38,7 +38,7 @@ Pode parecer meio óbvio pensar sobre o conhecimento, mas não é tanto assim. P
 
 Considerando isso, é importante dizer que existem diferentes tipos de conhecimento, ou modos de conhecer. Mas a apresentação desses diferentes tipos de conhecimento (Filosofia, Ciência, Arte etc) não representam a busca por uma hierarquia entre eles. Ou seja, não existe um conhecimento superior, verdadeiro, e outro que é inferior ou desnecessário. Os diferentes tipos de conhecimento atendem a necessidades distintas, e, por isso, não cabe julgá-los por meio de uma tentativa de classificação.
 
-<iframe width="489" height="284" src="https://www.youtube.com/embed/14epdYI4ICM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="663" height="382" src="https://www.youtube.com/embed/14epdYI4ICM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f14ef2de555a93f3d6f21e6">link do Edpuzzle</a>.</small>
 
 Por fim, antes da gente avançar, preciso pontuar rapidamente a separação entre o senso comum e o conhecimento científico. Quando falamos em senso comum, muitas vezes pensamos em algo que é errado, ou falho. Não é bem assim. O conhecimento popular, muitas vezes correto e perfeitamente adequado a necessidades específicas, não representa uma mentira. Ele apenas não é científico; ou seja, não se constitui por meio de um método que pode ser reproduzido por outros pesquisadores, seguindo determinadas etapas. O conhecimento científico se organiza por etapas que podem, simplificadamente, ser apresentadas assim:
@@ -118,4 +118,4 @@ Bem, acabou. Mas antes de sair, deixa eu perguntar uma coisa: você gosta de est
 - [Revisão Teoria do Conhecimento — aula 4](https://create.kahoot.it/v2/details/55f5b115-114d-4d07-8e48-d81ce2da763b)
 - [Revisão Teoria do Conhecimento — aula 5](https://create.kahoot.it/v2/details/27b7971d-15ce-429f-8c7c-c4be485ce42e)
 
-<a href="mailto:marcos.ferreira@ifb.edu.br" "target=_blank"><img src="/assets/images/duvidas.png"></a>
+<a href="mailto:marcos.ferreira@ifb.edu.br"><img src="/assets/images/duvidas.png"></a>
