@@ -14,6 +14,8 @@ Olá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia tra
   * [Ceticismo](#ceticismo)
   * [Dogmatismo](#dogmatismo)
 - [Questionários no Kahoot](#questionários-no-kahoot)  
+- [Outros textos](#outros-textos)
+- [Referências](#referências)
 
 ## Apresentação
 
@@ -112,10 +114,30 @@ Bem, acabou. Mas antes de sair, deixa eu perguntar uma coisa: você gosta de est
 
 ## Questionários no Kahoot
 
-- [Revisão Teoria do Conhecimento — aula 1](https://create.kahoot.it/v2/details/23598b68-e06e-462f-a4d5-f720e1f2d3e2)
-- [Revisão Teoria do Conhecimento — aula 2](https://create.kahoot.it/v2/details/6c9d246a-0705-4edd-bf9c-f7f6708ec863)
-- [Revisão Teoria do Conhecimento — aula 3](https://create.kahoot.it/v2/details/21a926cc-77e8-4229-a5ec-79ce29ba68e8)
-- [Revisão Teoria do Conhecimento — aula 4](https://create.kahoot.it/v2/details/55f5b115-114d-4d07-8e48-d81ce2da763b)
-- [Revisão Teoria do Conhecimento — aula 5](https://create.kahoot.it/v2/details/27b7971d-15ce-429f-8c7c-c4be485ce42e)
+- [Revisão — aula 1](https://create.kahoot.it/v2/details/23598b68-e06e-462f-a4d5-f720e1f2d3e2)
+- [Revisão — aula 2](https://create.kahoot.it/v2/details/6c9d246a-0705-4edd-bf9c-f7f6708ec863)
+- [Revisão — aula 3](https://create.kahoot.it/v2/details/21a926cc-77e8-4229-a5ec-79ce29ba68e8)
+- [Revisão — aula 4](https://create.kahoot.it/v2/details/55f5b115-114d-4d07-8e48-d81ce2da763b)
+- [Revisão — aula 5](https://create.kahoot.it/v2/details/27b7971d-15ce-429f-8c7c-c4be485ce42e)
 
 <a href="mailto:marcos.ferreira@ifb.edu.br" target="_blank"><img src="/assets/images/duvidas.png"></a>
+
+## Outros textos
+
+- [Cientificamente comprovado](https://marcosramon.net/blog/cientificamente-comprovado)
+- [O senso comum de cada dia](https://marcosramon.net/blog/o-senso-comum-de-cada-dia)
+- [Curiosidade](https://marcosramon.net/blog/curiosidade)
+- [Duvidar para fazer as perguntas certas](https://marcosramon.net/blog/duvidar-para-fazer-as-perguntas-certas)
+- [De onde vem o conhecimento?](https://marcosramon.net/blog/de-onde-vem-o-conhecimento)
+
+## Referências
+
+ - ALMEIDA, Aires; TEIXEIRA, Célia; MURCHO, Desidério; MATEUS, Paula; GALVÃO, Pedro. A arte de Pensar: Filosofia 11º ano. Lisboa: Plátano Ed., 2008.
+ - ALVES, Rubem. Filosofia da Ciência: Introdução ao Jogo e as suas regras. São
+Paulo: Loyola, 2008.
+ - ARANHA, Maria Lúcia de Arruda. Filosofando: Introdução à Filosofia. São Paulo:
+Moderna, 2013.
+ - BAGGINI, Julian. O porco filósofo: 10 experiências de pensamento para a vida cotidiana. Rio de Janeiro: Relume Dumará, 2006.
+ - HESSE, Johannes. Teoria do Conhecimento. Coimbra, Portugal: Arménio Amado Ed., 1980.
+ - RUSSELL, Bertrand. Os Problemas da Filosofia. Lisboa: Edições 70, 2008.
+ - VASCONCELOS, José Antonio. Reflexões: filosofia e cotidiano. São Paulo. Edições SM, 2016.
