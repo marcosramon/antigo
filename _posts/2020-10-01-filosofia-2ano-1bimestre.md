@@ -33,12 +33,12 @@ O objetivo dessa unidade, portanto, é debater esses temas e analisar as diferen
 
 Pode parecer meio óbvio pensar sobre o conhecimento, mas não é tanto assim. Por exemplo: os insetos e os outros animais produzem conhecimento? Abelhas, capivaras, peixes e leões são capazes de conhecer? O que você acha?
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/H7Q33mRyTFk" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe> 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/H7Q33mRyTFk' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f2072ee8b5f993f08ed570d">link do Edpuzzle</a>.</small>
 
 Considerando isso, é importante dizer que existem diferentes tipos de conhecimento, ou modos de conhecer. Mas a apresentação desses diferentes tipos de conhecimento (Filosofia, Ciência, Arte etc) não representam a busca por uma hierarquia entre eles. Ou seja, não existe um conhecimento superior, verdadeiro, e outro que é inferior ou desnecessário. Os diferentes tipos de conhecimento atendem a necessidades distintas, e, por isso, não cabe julgá-los por meio de uma tentativa de classificação.
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/14epdYI4ICM" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//14epdYI4ICM' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f14ef2de555a93f3d6f21e6">link do Edpuzzle</a>.</small>
 
 Por fim, antes da gente avançar, preciso pontuar rapidamente a separação entre o senso comum e o conhecimento científico. Quando falamos em senso comum, muitas vezes pensamos em algo que é errado, ou falho. Não é bem assim. O conhecimento popular, muitas vezes correto e perfeitamente adequado a necessidades específicas, não representa uma mentira. Ele apenas não é científico; ou seja, não se constitui por meio de um método que pode ser reproduzido por outros pesquisadores, seguindo determinadas etapas. O conhecimento científico se organiza por etapas que podem, simplificadamente, ser apresentadas assim:
@@ -50,12 +50,12 @@ Por fim, antes da gente avançar, preciso pontuar rapidamente a separação entr
 
 Mas a ciência, por possuir um método, não é também sinônimo de verdade absoluta. O conhecimento científico falha e precisa ser constantemente revisado. Logo, se ele possui vantagens em relação ao senso comum, isso não implica a noção de eliminação da dúvida em relação ao próprio fazer científico.
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/gbBPnh3wI-c" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/gbBPnh3wI-c' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f20a00bd2bd523f2aae1273">link do Edpuzzle</a>.</small>
 
 É muito comum a gente pressupor que os outros animais produzem conhecimento, pelo fato de que vemos eles aprendendo coisas. No entanto, a **capacidade de aprender**, por definição, é diferente da **capacidade de conhecer**. Pense que para conhecer é necessário estar consciente do que está fazendo, ao mesmo tempo em que essa ação tem o poder de transformar a realidade. Os insetos e outros animais podem aprender coisas (inclusive algumas que não são naturais a eles), mas isso que eles aprendem não é repassado, nem gerar transformações significativas no modo como eles vivem. No final, eles continuam sendo direcionados pelo instinto, algo que não acontece com o ser humano.
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/bz7ufA3f5PY" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/bz7ufA3f5PY' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f300567a098833f146fbef9">link do Edpuzzle</a>.</small>
 
 Para a nossa finalidade aqui, vamos considerar o seguinte: **o conhecimento é uma crença verdadeira e justificada**. Vamos analisar esse conceito:
@@ -64,14 +64,14 @@ Para a nossa finalidade aqui, vamos considerar o seguinte: **o conhecimento é u
  - *Por que a crença tem que ser verdadeira?* Acho que isso você já entendeu pelo que escrevi no final da questão anterior. Ou seja, se você acreditar em algo falso (vamos dizer que eu acredito que existem pessoas que vivem em Marte), essa crença por si só não pode ser chamada de conhecimento.
  - *Por que precisa ser justificada?* Porque nós temos que entender aquilo que dizemos para que isso seja conhecimento. Imagine que você repete o que uma pessoa te disse e começa a acreditar nisso. Por acaso, isso que você agora acredita é verdade. Mas você não sabe explicar o porquê. Logo, não se trata de conhecimento.
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/Zu417JA--Cs" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Zu417JA--Cs' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f39b2ee1958873f03be4aa9">link do Edpuzzle</a>.</small>
 
 Agora, quando falamos em conhecimento, uma dúvida comum é aquela que recai sobre a definição de conhecimento filosófico. Afinal, é relativamente fácil identificar características da ciência, arte ou religião. Mas e a filosofia? Como afirma Bertrand Russell, talvez essa dificuldade reside no fato de que o resultado prático do conhecimento científico afeta a todos nós, enquanto o resultado da pesquisa filosófica só nos afeta indiretamente.
 
 Mas a filosofia também possui um método (a discussão crítica) e um objeto de estudo (problemas acerca da natureza da realidade, do conhecimento e dos valores). Logo, se trata de uma forma de conhecimento que opera por meio de conceitos em uma atividade crítica que busca uma tomada de posição. Afinal, como afirmou Kant, não se aprende Filosofia, mas sim a filosofar.
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/sCXetIC6x3Y" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sCXetIC6x3Y' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f39b3a1305c083f08f1f455">link do Edpuzzle</a>.</small>
 
 Depois da reflexão sobre o conceito de conhecimento, podemos avançar para o segundo tema:
@@ -94,7 +94,7 @@ O ceticismo é a doutrina que defende que não é possível alcançar o conhecim
 2. **Argumento da falha na percepção:** os nossos sentidos não funcionam do mesmo jeito. As pessoas nem sempre vêem ou escutam da mesma forma. Por isso, a percepção é fonte de dúvida e não de certezas.
 3. **Argumento da regressão infinita:** muitas vezes, para tentar explicar uma coisa, recorremos a explicações anteriores, e a outras anteriores, e outras anteriores… de forma que não existe uma explicação definitiva para nada.
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/v5sMfTLQazc" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/v5sMfTLQazc' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f42d87ef682d43f1c0d3083">link do Edpuzzle</a>.</small>
 
 Mas, obviamente, muitos autores discordam do ceticismo; e entendem que, sim, podemos conhecer a realidade. A resposta mais direta, nesse sentido, é aquela que é oferecida pelo...
@@ -105,7 +105,7 @@ O dogmatismo é a postura epistemológica que defende que o conhecimento é poss
 
 O dogmatismo radical pressupõe que o conhecimento verdadeiro é a adequação da mente às coisas. Por isso, somos capazes de conhecer a essência das coisas. Podemos classificar Santo Agostinho, Tomás de Aquino e Platão como representantes desse modelo. Já o dogmatismo moderado é aquele que acredita que o conhecimento verdadeiro possível, embora não seja fácil, precisando ser submetido à experiência (empirismo) ou à racionalidade (racionalismo). Os principais representantes empíricos são Locke, Newton e Bacon. Já o principal representante racionalista é Descartes. Quando estivermos falando sobre a origem do conhecimento eu vou retomar Descartes e vai ficar mais fácil de entender o tipo de dogmatismo que ele representa.
 
-<iframe width="663" height="382" src="https://www.youtube.com/embed/YfnPckAQnmE" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/YfnPckAQnmE' frameborder='0' allowfullscreen></iframe></div>
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f4a77df9affbb3f388634f1">link do Edpuzzle</a>.</small>
 
 Bem, acabou. Mas antes de sair, deixa eu perguntar uma coisa: você gosta de estudar por meio de aplicativos? Pois bem, se a resposta for sim, eu tenho uma boa notícia para você. O app do Kahoot tem um recurso de estudo com flashcards que é bem bacana. Por enquanto, ele só funciona no app para smartphones ou tablets, mas os desenvolvedores prometem trazer esse recurso para a versão web também. Então, se você quiser estudar mais sobre teoria do conhecimento, aqui seguem alguns questionários que eu fiz.
