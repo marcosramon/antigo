@@ -33,12 +33,8 @@ O objetivo dessa unidade, portanto, é debater esses temas e analisar as diferen
 
 Pode parecer meio óbvio pensar sobre o conhecimento, mas não é tanto assim. Por exemplo: os insetos e os outros animais produzem conhecimento? Abelhas, capivaras, peixes e leões são capazes de conhecer? O que você acha?
 
-<figure>
-    <div class="boxVideo">
-           <iframe width="420" height="315" src="https://www.youtube.com/embed/H7Q33mRyTFk" frameborder="0" allowfullscreen></iframe> 
-    </div>
+<iframe width="663" height="382" src="https://www.youtube.com/embed/H7Q33mRyTFk" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" allowfullscreen></iframe> 
 <small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f2072ee8b5f993f08ed570d">link do Edpuzzle</a>.</small>
-</figure>
 
 Considerando isso, é importante dizer que existem diferentes tipos de conhecimento, ou modos de conhecer. Mas a apresentação desses diferentes tipos de conhecimento (Filosofia, Ciência, Arte etc) não representam a busca por uma hierarquia entre eles. Ou seja, não existe um conhecimento superior, verdadeiro, e outro que é inferior ou desnecessário. Os diferentes tipos de conhecimento atendem a necessidades distintas, e, por isso, não cabe julgá-los por meio de uma tentativa de classificação.
 
