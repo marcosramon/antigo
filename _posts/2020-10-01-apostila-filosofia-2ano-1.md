@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: blog
 image: conhecimento.png
-title: Filosofia 2º ano (1º Bimestre)
+title: Apostila Filosofia 2º ano (parte 1)
 excerpt: "Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria do conhecimento"
 ---
 Olá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia trabalhados no 1º Bimestre (2020) para o estudantes do 2º ano do Curso Técnico em Informática Integrado ao Ensino Médio (IFB). Agora, se você não é desse curso, mas tiver interesse no assunto, pode ler também, viu? Não se acanhe não. Para facilitar o acesso, utilize o índice abaixo:
@@ -132,12 +132,12 @@ Bem, acabou. Mas antes de sair, deixa eu perguntar uma coisa: você gosta de est
 
 ## Referências
 
- - ALMEIDA, Aires; TEIXEIRA, Célia; MURCHO, Desidério; MATEUS, Paula; GALVÃO, Pedro. A arte de Pensar: Filosofia 11º ano. Lisboa: Plátano Ed., 2008.
- - ALVES, Rubem. Filosofia da Ciência: Introdução ao Jogo e as suas regras. São
+ - ALMEIDA, Aires; TEIXEIRA, Célia; MURCHO, Desidério; MATEUS, Paula; GALVÃO, Pedro. **A arte de Pensar: Filosofia 11º ano**. Lisboa: Plátano Ed., 2008.
+ - ALVES, Rubem. **[Filosofia da Ciência: Introdução ao Jogo e as suas regras](https://amzn.to/3cS2202)**. São
 Paulo: Loyola, 2008.
- - ARANHA, Maria Lúcia de Arruda. Filosofando: Introdução à Filosofia. São Paulo:
+ - ARANHA, Maria Lúcia de Arruda. **[Filosofando: Introdução à Filosofia](https://amzn.to/2EV78fJ)**. São Paulo:
 Moderna, 2013.
- - BAGGINI, Julian. O porco filósofo: 10 experiências de pensamento para a vida cotidiana. Rio de Janeiro: Relume Dumará, 2006.
- - HESSE, Johannes. Teoria do Conhecimento. Coimbra, Portugal: Arménio Amado Ed., 1980.
- - RUSSELL, Bertrand. Os Problemas da Filosofia. Lisboa: Edições 70, 2008.
- - VASCONCELOS, José Antonio. Reflexões: filosofia e cotidiano. São Paulo. Edições SM, 2016.
+ - BAGGINI, Julian. **[O porco filósofo: 10 experiências de pensamento para a vida cotidiana](https://amzn.to/2ESvIh4)**. Rio de Janeiro: Relume Dumará, 2006.
+ - HESSE, Johannes. **[Teoria do Conhecimento](https://amzn.to/2SkAgQz)**. Coimbra, Portugal: Arménio Amado Ed., 1980.
+ - RUSSELL, Bertrand. **[Os Problemas da Filosofia](https://amzn.to/33o108W)**. Lisboa: Edições 70, 2008.
+ - VASCONCELOS, José Antonio. **[Reflexões: filosofia e cotidiano](https://amzn.to/2GyLiih)**. São Paulo. Edições SM, 2016.
