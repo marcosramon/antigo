@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Apostila de Filosofia 3º ano
+published: true
+categories: blog
+image: conhecimento.png
+title: Apostila Filosofia 3º ano (parte 1)
+excerpt: "Conteúdo de Filosofia para o 3º ano do Ensino Médio. Tema: ética"
 ---
 
 Olá, tudo bem? Nesse roteiro você vai encontrar os conteúdos de Filosofia trabalhados no 1º Bimestre (2020) para o estudantes do 3º ano do Curso Técnico em Informática Integrado ao Ensino Médio (IFB). Agora, se você não é desse curso, mas tiver interesse no assunto, pode ler também, viu? Não se acanhe não. Para facilitar o acesso, utilize o índice abaixo:
