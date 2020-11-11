@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories: blog
-image: eyes.gif
+image: Escrita.jpg
 title: O tempo da escrita
 excerpt: "Manter um ritmo de produção sempre foi uma coisa difícil pra mim."
 ---
