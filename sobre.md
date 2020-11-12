@@ -20,6 +20,7 @@ O que você pode encontrar aqui:
 
  - [Blog](https://marcosramon.net/blog){:target="_blank"}: <mark>textos</mark> sobre filosofia, arte, ensino e tecnologia.
  - [Ficções](https://marcosramon.net/ficcoes){:target="_blank"}: um <mark>podcast</mark> sobre filosofia e cotidiano.
+ - [Aulas](https://marcosramon.net/aulas){:target="_blank"}: textos e materiais de aula de <mark>Filosofia para o Ensino Médio</mark>.
  - [Livros](https://marcosramon.net/livros){:target="_blank"}: lista dos meus <mark>livros publicados</mark>.
  - [Arquivo](https://marcosramon.net/archive){:target="_blank"}: uma <mark>lista</mark> das publicações por mês e ano.
 
