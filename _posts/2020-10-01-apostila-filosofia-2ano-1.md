@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-categories: emi
+categories: aulas
 image: conhecimento.png
 title: Apostila Filosofia 2º ano (parte 1)
 excerpt: "Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria do conhecimento"
