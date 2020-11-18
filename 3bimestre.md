@@ -14,7 +14,7 @@ Nós, professores, não tivemos recesso nesse período entre semestres, mas junt
 
 *E organizei meus materiais de aula*
 
-<img src="/assets/images/Estudo.JPG">
+<img src="/assets/images/Estudo2.jpeg">
 
 
 E agora, retornando às nossas atividades, preciso apresentar pra vocês o conteúdo que vamos trabalhar no 3º Bimestre. E esse conteúdo é a *Estética*. É um assunto que vai permitir um trabalho muito próximo da disciplina de Artes e acho que o resultado pode ser muito bom.
