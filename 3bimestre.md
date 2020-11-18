@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3º Bimestre
+title: 3º ano, 3º Bimestre - Estética
 ---
 
 Hey, como foram esses poucos dias de descanso?
@@ -23,4 +23,6 @@ Uma coisa importante: a estética tem um conteúdo extenso e que será trabalho 
 
 Em relação à parte específica da avaliação de Filosofia, eu terei uma definição sobre isso em breve. Mas antes de decidir, quero de ouvir vocês sobre o que vocês acham mais interessante: 
 
-Bem, por enquanto é só. Nessa primeira semana do 3º Bimestre trouxe três vídeos para vocês. São curtos e não ultrapassam 50 minutos (que é o tempo da nossa aula). Então, dá pra vocês acompanharem tranquilamente. 
+Bem, por enquanto é só. Nessa primeira semana do 3º Bimestre trouxe três vídeos para vocês. São curtos e não ultrapassam 50 minutos (que é o tempo da nossa aula). Então, dá pra vocês acompanharem tranquilamente. =)
+
+<iframe width="470" height="404" src="https://edpuzzle.com/embed/media/5fb563f06f5df840d7391ef7" frameborder="0" allowfullscreen></iframe>
