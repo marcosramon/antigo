@@ -1,5 +1,6 @@
 ---
 layout: page
+image: Estudo2.jpeg
 title: 3º ano, 3º Bimestre - Estética
 ---
 
@@ -8,9 +9,11 @@ Nós, professores, não tivemos recesso nesse período entre semestres, mas junt
 
 *Li um pouco de Naruto*
 
+<img src="/assets/images/naruto.jpeg">
 
 *Toquei violão*
 
+<img src="/assets/images/tocandoviolao.jpeg">
 
 *E organizei meus materiais de aula*
 
