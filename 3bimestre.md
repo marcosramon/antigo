@@ -23,7 +23,7 @@ E agora, retornando às nossas atividades, preciso apresentar pra vocês o conte
 
 Uma coisa importante: a estética tem um conteúdo extenso e que será trabalho apenas nesse bimestre. Assim, optei por (pelo menos durante as duas primeiras semanas) concentrar todas as minhas aulas em vídeos. Depois nós podemos avaliar se esse modelo é bom ou não. Não vou indicar textos ou questionários obrigatórios nesse momento, e todas as presenças serão contabilizadas por meio dos vídeos. Mas sempre vou apresentar referências nas aulas, então procure esses textos e faça a leitura deles, se puder.
 
-Em relação à parte específica da avaliação de Filosofia, eu terei uma definição sobre isso em breve. Mas antes de decidir, quero de ouvir vocês sobre o que vocês acham mais interessante: 
+Em relação à parte específica da avaliação de Filosofia, eu terei uma definição sobre isso em breve. Mas antes de decidir, quero ouvir de vocês o que vocês acham mais interessante. 
 
 Bem, por enquanto é só. Nas duas primeiras semanas do 3º Bimestre trouxe três vídeos para vocês (por semana). Os vídeos de cada semana são curtos e não ultrapassam 50 minutos (que é o tempo da nossa aula). Então, dá pra vocês acompanharem tranquilamente. =)
 
