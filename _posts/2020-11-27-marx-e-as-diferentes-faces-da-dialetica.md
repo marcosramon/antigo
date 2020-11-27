@@ -26,3 +26,6 @@ E aqui, nesse exemplo, acho que a compreensão de Marx se junta com a de Hegel, 
 [^1]: Como quando afirma que “não podemos banhar duas vezes no mesmo rio”.
 
 [^2]: *In*: Hegel, preleções de 1830. In: HEGEL. A Razão na História. Lisboa: Edições 70, 2013.
+
+Esse texto foi escrito para a minha participação no [8º Colóquio sobre a Pesquisa em EPT](https://www.even3.com.br/ccpep/), que aconteceu em 27 de Novembro de 2020.
+{: .message }
