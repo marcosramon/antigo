@@ -1,5 +1,10 @@
 ---
 title: Marx e as diferentes faces da dialética
+layout: post
+published: true
+categories: blog
+image: dialetica.png
+excerpt: "A reflexão sobre a palavra dialética passa hoje, necessariamente, pela presença da filosofia de Marx. Mas o próprio Marx incorporou o uso da dialética a partir de uma reflexão que foi feita no decorrer da história da filosofia. De Heráclito a Hegel, a dialética foi ganhando os contornos do que pensamos hoje para o conceito, mas certamente é em Hegel que Marx se inspirou de maneira mais direta para pensar a possibilidade de encarar a realidade por meio do conflito entre posicionamentos opostos."
 ---
 
 A reflexão sobre a palavra dialética passa hoje, necessariamente, pela presença da filosofia de Marx. Mas o próprio Marx incorporou o uso da dialética a partir de uma reflexão que foi feita no decorrer da história da filosofia. De Heráclito a Hegel, a dialética foi ganhando os contornos do que pensamos hoje para o conceito, mas certamente é em Hegel que Marx se inspirou de maneira mais direta para pensar a possibilidade de encarar a realidade por meio do conflito entre posicionamentos opostos.
@@ -19,4 +24,5 @@ A relação amorosa não se encontra pertencimento cego, no sentido do outro que
 E aqui, nesse exemplo, acho que a compreensão de Marx se junta com a de Hegel, ainda que por um caminho bem distinto. No *Capital* Marx escreveu que “em Hegel, a dialética está na cabeça. É preciso virá-la de pernas para o ar, para descobrir o cerne racional no envoltório místico”. Mas o que a dialética de Hegel tem em comum com a de Marx é a crença, quase inabalável, no curso do progresso, na ideia de que a história segue o seu caminho e atropela tudo e todos para se fazer realidade. Por isso *o real é o racional*, como escreveu Hegel. Conhecemos a realidade por meio de nossa presença no mundo, e a nossa forma de ver o mundo é uma forma dialética. Isso não quer dizer que a dialética é a linguagem do universo, mas sim que a nossa capacidade racional nos permite entender a realidade a partir da relação entre os opostos. E isso vale tanto para o amor quanto para as relações de trabalho.
 
 [^1]: Como quando afirma que “não podemos banhar duas vezes no mesmo rio”.
+
 [^2]: *In*: Hegel, preleções de 1830. In: HEGEL. A Razão na História. Lisboa: Edições 70, 2013.
