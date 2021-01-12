@@ -26,7 +26,7 @@ O que você pode encontrar aqui:
 
 Outros links: 
 
- - [Filosofia](https://marcosramon.net/filosofia){:target="_blank"}: vídeos, podcasts e textos sobre <mark>Filosofia</mark> no Ensino Médio.
+ - [Filosofia](https://medium.com/filosofia-no-ensino-m%C3%A9dio){:target="_blank"}: vídeos, podcasts e textos sobre <mark>Filosofia</mark> no Ensino Médio.
  - [Nintendo Blast](https://www.google.com/search?ei=1YvaXvuqFbay5OUPkOw1&q=marcos+ramon+site%3Anintendoblast.com.br&oq=marcos+ramon+site%3Anintendoblast.com.br&gs_lcp=CgZwc3ktYWIQA1DiFFjiFGCfGGgAcAB4AIAB1QGIAdUBkgEDMi0xmAEAoAECoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi76cCBpOvpAhU2GbkGHRB2DQAQ4dUDCAw&uact=5){:target="_blank"}: link para meus textos sobre <mark>videogames</mark> publicados no site Nintendo Blast.
  
 Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
