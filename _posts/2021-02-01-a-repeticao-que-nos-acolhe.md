@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: blog
 image: 
-title: A a repetição que nos acolhe
+title: A repetição que nos acolhe
 excerpt: "Nossa primeira forma de relacionamento com a realidade, e a mais duradoura, é a indução. Invariavelmente acontece assim: observamos determinados fatos, testamos a regularidade deles e ganhamos confiança de que as coisas continuarão sempre as mesmas."
 ---
 
@@ -13,4 +13,4 @@ Nossa primeira forma de relacionamento com a realidade, e a mais duradoura, é a
 
 Mas nem mesmo a ciência é assim tão escrava da regularidade quanto parece. Muitos cientistas se arriscam além do óbvio e é por isso que fazemos mais perguntas, perguntas sobre coisas que nem sabíamos que poderiam existir. E isso nos leva a... outros problemas para solucionar. Não se engane, isso não é ruim. Rousseau pode ter escrito que o desenvolvimento das ciências e das artes traziam mais angústia e sofrimento à humanidade do que benefícios. Mas negar o fato de que a vida ganha sentido quando abandonamos o sentido das coisas, é deixar de olhar para o mundo que  nos cerca. 
 
-A indução pura e simples, essa que nos traz a satisfação da crença certa no pôr do sol ou no enredo batido da próxima novela, só nos serve até certo ponto. Se nada fosse estranho, se tudo fosse absolutamente previsível, ninguém iria suportar a vida. Por isso, se apesar de tudo ainda queremos viver, é porque existe mais do que o óbvio pelo caminho. E que bom que é assim.
+A indução pura e simples, essa que nos traz a satisfação da crença certa no pôr do sol ou no enredo batido da próxima novela, só nos serve até certo ponto. [Se nada fosse estranho](https://marcosramon.net/blog/coisas-estranhas-acontecem), se tudo fosse absolutamente previsível, ninguém iria suportar a vida. Por isso, se apesar de tudo ainda queremos viver, é porque existe mais do que o óbvio pelo caminho. E que bom que é assim.
