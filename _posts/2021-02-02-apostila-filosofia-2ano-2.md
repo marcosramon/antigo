@@ -43,6 +43,8 @@ De acordo com esse ponto de vista, o ser humano não é apenas um ser teórico o
 
 Os fundadores do pragmatismo foram Charles Peirce e William James. Mas é importante ressaltar que Peirce rejeitou posteriormente o termo *pragmatismo* e preferiu utilizar a palavra *pragmaticismo*. O motivo da mudança se deu porque o filósofo acreditava que estava ocorrendo um uso inapropriado no senso comum do termo pragmatismo, que passou a ser associado com a figura de uma postura ou pessoa que é prática ou só se importa com o que é útil, quando, na verdade, a teoria tem uma preocupação lógica (levar as pessoas a se apoiarem em reflexões sobre a realidade e não em assuntos metafísicos).
 
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f56af7f9618c33f43c55f6b" frameborder="0" allowfullscreen></iframe>
+
 ## Criticismo
 
 O criticismo é uma teoria que pretende ser uma postura intermediária entre o ceticismo e o dogmatismo. De acordo com essa doutrina, é possível conhecer a realidade, mas não podemos conhecer tudo. O fundador do criticismo foi Kant, para quem "o criticismo é o método de filosofar que consiste em investigar as fontes das próprias afirmações e as razões em que as mesmas se assentam" (HESSEN, Johannes. Teoria do conhecimento, p.55).
