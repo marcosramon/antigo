@@ -118,9 +118,103 @@ Bem, as ideias presentes nas filosofias de John Locke e David Hume resumem o que
 
 ## Introdução à lógica
 
-Agora, à parte da reflexão sobre os conceitos de ética e moral, agora extremamente necessário é refletirmos sobre as circunstâncias que envolvem o ato moral. Por exemplo, pessoas de culturas diferentes se comportam de maneiras diferentes. E por que isso acontece?
+Não é raro utilizarmos a palavra *lógica* no nosso cotidiano. Você, por exemplo, já ter respondido para alguém que perguntou uma coisa óbvia: “É lógico!”. Esse é, sem dúvidas, o sentido mais comum da palavra lógica: um sinônimo de *evidente*.
 
-Apesar de sermos parte integrante da natureza, o que nos difere dos outros animais é, essencialmente, o fato de que agimos sobre a natureza transformando-a em cultura. E a partir desse momento deixamos de ser regidos apenas pelas circunstâncias da própria natureza. Para que a cultura funcione, criamos regras, normas de conduta e começamos a pensar em estratégias para que essas regras façam sentido para todas as pessoas. É justamente nesse sentido que falamos em pessoas morais ou imorais. *Moral*, por exemplo, é uma pessoa que se adequa à norma estabelecida. Veja bem, não se trata de concordar com a norma, mas sim de segui-la. Por outro lado, uma pessoa imoral é aquela que discorda da norma e age contra ela, manifestando essa divergência.
+No entanto, a filosofia quando estuda a lógica (cuja etimologia vem da palavra grega *logos* = razão, palavra), se preocupa com a reflexão em torno do raciocínio correto. Um conceito bom, que acho que resume bem o tema é esse, de Irving Copi: “Lógica é o estudo dos métodos e princípios utilizados para distinguir o raciocínio correto do incorreto”. 
+
+A partir disso acho que você compreendeu que uma pessoa não precisa, necessariamente, estudar lógica para pensar da maneira correta. No entanto, o estudo dessa disciplina pode nos ajudar a raciocinar de maneira mais eficiente, bem como pode nos munir da capacidade de identificar erros em outros raciocínios, feitos por outras pessoas. Você vai perceber também, ao pesquisar, que existem duas áreas distintas (mas complementares) do estudo da lógica: a argumentativa e a matemática. Mas aqui, neste momento, vamos estudar apenas os elementos básicos da lógica argumentativa.
+
+## Elementos da lógica
+
+A lógica possui alguns elementos básicos, que oferecem os materiais com os quais trabalhamos. E esses elementos são os quatro a seguir:
+
+1. **Proposição:** o significado de uma oração declarativa;
+2. **Argumento:** qualquer grupo de proposições tal que se afirme ser uma delas derivada das outras, as quais são consideradas provas evidentes da verdade da primeira;
+3. **Premissas:** as proposições que justificam a conclusão;
+4. **Conclusão:** a proposição principal do argumento, defendida pelas premissas.
+
+Para entendermos melhor, basta você compreender o seguinte: não existe argumento sem proposições, e as proposições precisam ser afirmações ou negações. Ou seja, é necessário termos frases declarativas. E por quê? Porque apenas orações declarativas podem ter valor de verdade.
+
+Imagine, por exemplo, que eu diga a você: “Será que vai chover amanhã?”. Ou então: “Não esqueça de comprar o remédio!”. Essas duas frases não podem ter seu valor de verdade aferido. Você não pode dizer se elas são verdadeiras ou falsas, porque elas não emitem declarações. Agora observe essa frase: “Aristóteles nasceu em Atenas”. Essa é uma proposição, pois podemos avaliar se essa sentença é verdadeira ou não (no caso, não é, pois Aristóteles era Macedônio). E é com esse tipo de material que os argumentos são construídos.
+
+Um argumento é sempre, e necessariamente, um conjunto de proposições. Mas desde que nesse conjunto de proposições, uma delas seja defendida pelas outras. Veja esse exemplo: “Semana passada eu fui à Belo Horizonte. Eu gosto do clima de lá”. Será temos um argumento aí. Não. Afinal, esses duas orações, apesar de relacionadas, não se sustentam uma na outra. Agora imagine que eu utilizasse aquelas mesmas proposições desse jeito: “Semana passada eu fui à Belo Horizonte porque eu gosto do clima de lá”. Você concorda que houve uma mudança significativa? A inclusão da palavra *porque*, transformou aquelas duas frases isoladas em um argumento. 
+
+Como já afirmei antes, em um argumento uma das proposições (a principal delas) é a conclusão; e as outras (as que justificam a conclusão) são as premissas. Logo, nesse exemplo mencionado temos o seguinte modelo:
+
+{desenho conclusão e premissa}
+<img src="/assets/images/etica2.PNG">
+
+Simples, não é? Mas nesse vídeo você vai ter mais detalhes sobre o assunto, para tirar qualquer dúvida 
+
+## Princípios lógicos
+
+A lógica argumentativa é, essencialmente, a lógica desenvolvida por Aristóteles e compilada na Idade Média por muitos filósofos. Nesse modelo de lógica existe uma classificação das proposições em quatro tipos ou formas:
+
+1. Todos os A são B.
+2. Nenhum A é B.
+3. Alguns A são B.
+4. Alguns A não são B.
+
+Estas proposições são classificadas da seguinte maneira, utilizando letras específicas:
+
+• «Todos os A são B» são as de tipo **A** ou universais afirmativas
+• «Nenhum A é B» são as de tipo **E** ou universais negativas.
+• «Alguns A são B» são as de tipo **I** ou particulares afirmativas.
+• «Alguns A não são B» são as de tipo **O** ou particulares negativas.
+
+Uma forma boa de visualizar essas proposições, é utilizando o quadrado lógico:
+
+{ desenho do Quadrado Lógico}
+
+
+
+Nesse quadro conseguimos visualizar os quatro de proposições e suas relações a partir dos princípios lógicos fundamentais, apresentados por Aristóteles.
+
+Mas antes de mostrar as regras do quadrado lógico, é necessário apresentar os princípios a que eles se referem:
+
+**a) Princípio de Identidade**
+Se qualquer enunciado é verdadeiro, então ele é verdadeiro. Se for falso é falso. Exemplo: Um ser é sempre idêntico a si mesmo: A é A.
+
+**b) Princípio de Não-Contradição**
+Nenhum enunciado pode ser verdadeiro e falso ao mesmo tempo (e sob o mesmo aspecto). Exemplo: É impossível afirmar que A é A e é, ao mesmo tempo e sob o mesmo aspecto, não-A.
+
+**c) Princípio do Terceiro Excluído**
+Se um enunciado é verdadeiro o seu inverso é necessariamente falso, não há uma terceira opção. Exemplo: A é x ou não-x, não havendo uma terceira possibilidade.
+
+E aqui você pode ver as regras que apresentam as relações entre as proposições:
+
+1. **Contrariedade** 
+Duas proposições são contrárias quando ambas não podem ser verdadeiras, mas ambas podem ser falsas. 
+Universais Afirmativas (A) e Universais Negativas (E) são contrárias. 
+Exemplos: 
+"Todos corvos são pretos" e "Nenhum corvo é preto" não podem ser ambas verdadeiras. 
+"Todos homens são brancos" e "Nenhum homem é branco" podem ser ambas falsas. 
+
+2. **Contraditoriedade** 
+Duas proposições são contraditórias quando elas nunca podem ser ambas verdadeiras ou ambas falsas. 
+Universais Afirmativas (A) e Particulares Negativas (O) são contraditórias. Universais Negativas (E) e Particulares Afirmativas (I) são contraditórias. 
+Exemplos: 
+Se "alguns mamíferos são ovíparos" (I) é verdadeira, então "nenhum mamífero é ovíparo" (E) é falsa. 
+Se "alguns mamíferos são insetos" (I) é falsa, então "nenhum mamífero é inseto" (E) é verdadeira. 
+Se "todos homens são mortais" (A) é verdadeira, então "alguns homens não são mortais" (O) é falsa. 
+Se "alguns homens não são brancos" (O) é verdadeira, então "todos homens são brancos" (A) é falsa. 
+
+3. **Subalternidade** 
+Quando a Universal da relação é verdadeira, a Particular também é verdadeira. Contudo, o contrário não é logicamente necessário. 
+Quando a Particular da relação é falsa, a Universal também é falsa. Contudo, o contrário não é logicamente necessário. 
+Universais Afirmativas (A) e Particulares Afirmativas (I) são subalternas. Universais Negativas (E) e Particulares Negativas (O) são subalternas. 
+Exemplos: 
+Se "todos triângulos são polígonos" (A) é verdadeira, então "alguns triângulos são polígonos" (I) é verdadeira. 
+Se "nenhum mamífero é invertebrado" (E) é verdadeira, então "alguns mamíferos não são invertebrados" é verdadeira. 
+Se "alguns triângulos são círculos" é falsa, então "todos triângulos é círculo" é falsa. 
+Se "alguns insetos não são artrópodes" (O) é falsa, então "nenhum inseto é artrópode" (E) é falsa. 
+
+4. **Subcontrariedade** 
+Duas proposições são subcontrárias quando ambas não podem ser falsas, mas ambas podem ser verdadeiras. 
+Particulares Afirmativas (I) e Particulares Negativas (O) são subcontrárias. 
+Exemplos: 
+"Alguns homens são asiáticos" (I) e "alguns homens não são asiáticos" (O) podem ser ambas verdadeiras, mas não podem ser ambas falsas. 
+
 
 <img src="/assets/images/etica2.PNG">
 
