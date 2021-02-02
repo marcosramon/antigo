@@ -65,6 +65,8 @@ Por isso, não existe conhecimento fora da realidade. Para o criticismo tudo o q
 
 Outros animais possuem mais audição, mais olfato ou mais visão que nós (e nós possuímos mais percepções que alguns dos outros animais). Logo, se não percebemos o mundo do mesmo jeito que esses outros seres, como poderíamos dizer que o mundo é do jeito que vemos, sentimos ou ouvimos? O mundo que conhecemos é uma representação, mas não o mundo em si. E é só essa representação que podemos conhecer. Portanto, não podemos conhecer tudo, como queriam os dogmáticos, mas também não estamos privados do conhecimento, como defendiam os céticos. Podemos conhecer, mas no limite da nossa sensibilidade e de nossa capacidade intelectual.
 
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f5c21117110da3edb9b911d" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 O criticismo talvez seja a resposta que melhor sintetizou essa questão sobre a possibilidade do conhecimento. Mas existe outro tema importante, dentro da área filosófica: a origem do conhecimento.
@@ -91,6 +93,8 @@ Mas a reflexão do cogito só serve para cada pessoa em particular. Por isso, a 
 
 Antes de terminar e seguir para a próxima teoria, é preciso dizer que Descartes foi o mais importante dos racionalistas, mas não o único. Decidi focar minha apresentação nele por conta e de sua relevância, mas existiram outros que também produziram obras famosas, como Pascal, Spinoza e Leibniz. Assim, se você tiver mais interesse no racionalismo, pesquisa um pouco sobre esses autores.
 
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f67b67d81a4aa40763a8dc7" frameborder="0" allowfullscreen></iframe>
+
 ### Empirismo
 
 O empirismo se opõe à tese do racionalismo defendendo que a verdadeira fonte do conhecimento é a experiência. Nessa perspectiva, a consciência cognoscível tira seus conteúdos não de conhecimentos *a priori* mas sim da própria experiência. Essa teoria é bem exemplificada pela metáfora criada por John Locke, que defendia que a mente humana é como uma tábula rasa, um quadro em branco, em que a experiência escreve. Mas possui também um antecedente interessante em Aristóteles que escreveu que “nada está no intelecto que não tenha passado antes pelos sentidos”. Ou seja, todo conhecimento possui uma base empírica. 
@@ -113,10 +117,9 @@ No final das contas, todo conhecimento, sobre nós mesmos e sobre o mundo extern
 
 Bem, as ideias presentes nas filosofias de John Locke e David Hume resumem o que é o empirismo. Mas existem outros filósofos importantes que defendem a teoria, como Thomas Hobbes, George Berkeley e John Stuart Mill. Então, não deixe de pesquisar sobre eles para entender melhor a teoria.
 
----
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f710c89be9fae40a7e9fba3" frameborder="0" allowfullscreen></iframe>
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/FXvkiPDsACE' frameborder='0' allowfullscreen></iframe></div>
-<small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f20687386a7393f74332cdf">link do Edpuzzle</a>.</small>
+---
 
 ## Introdução à lógica
 
@@ -125,6 +128,8 @@ Não é raro utilizarmos a palavra *lógica* no nosso cotidiano. Você, por exem
 No entanto, a filosofia quando estuda a lógica (cuja etimologia vem da palavra grega *logos* = razão, palavra), se preocupa com a reflexão em torno do raciocínio correto. Um conceito bom, que acho que resume bem o tema é esse, de Irving Copi: “Lógica é o estudo dos métodos e princípios utilizados para distinguir o raciocínio correto do incorreto”. 
 
 A partir disso acho que você compreendeu que uma pessoa não precisa, necessariamente, estudar lógica para pensar da maneira correta. No entanto, o estudo dessa disciplina pode nos ajudar a raciocinar de maneira mais eficiente, bem como pode nos munir da capacidade de identificar erros em outros raciocínios, feitos por outras pessoas. Você vai perceber também, ao pesquisar, que existem duas áreas distintas (mas complementares) do estudo da lógica: a argumentativa e a matemática. Mas aqui, neste momento, vamos estudar apenas os elementos básicos da lógica argumentativa.
+
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f14ef58394ab63f1a72593c" frameborder="0" allowfullscreen></iframe>
 
 ## Elementos da lógica
 
@@ -146,7 +151,9 @@ Como já afirmei antes, em um argumento uma das proposições (a principal delas
 {desenho conclusão e premissa}
 <img src="/assets/images/etica2.PNG">
 
-Simples, não é? Mas nesse vídeo você vai ter mais detalhes sobre o assunto, para tirar qualquer dúvida 
+Simples, não é? Mas nesse vídeo você vai ter mais detalhes sobre o assunto, para tirar qualquer dúvida:
+
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f14ef41e555a93f3d6f226a" frameborder="0" allowfullscreen></iframe>
 
 ## Princípios lógicos
 
@@ -167,8 +174,6 @@ Estas proposições são classificadas da seguinte maneira, utilizando letras es
 Uma forma boa de visualizar essas proposições, é utilizando o quadrado lógico:
 
 { desenho do Quadrado Lógico}
-
-
 
 Nesse quadro conseguimos visualizar os quatro de proposições e suas relações a partir dos princípios lógicos fundamentais, apresentados por Aristóteles.
 
@@ -217,20 +222,23 @@ Particulares Afirmativas (I) e Particulares Negativas (O) são subcontrárias.
 Exemplos: 
 "Alguns homens são asiáticos" (I) e "alguns homens não são asiáticos" (O) podem ser ambas verdadeiras, mas não podem ser ambas falsas. 
 
-
 <img src="/assets/images/etica2.PNG">
+
+Nesse próximo vídeo eu faço um resumo desse tópico abordado aqui:
+
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/5f8dd9beb129c640f7e5474e" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-Bem, por enquanto é só. Mas antes de sair, deixa eu perguntar uma coisa: você gosta de estudar por meio de aplicativos? Pois bem, se a resposta for sim, eu tenho uma boa notícia para você. O app do Kahoot tem um recurso de estudo com *flashcards* que é bem bacana. Por enquanto, ele só funciona no app para smartphones ou tablets, mas os desenvolvedores prometem trazer esse recurso para a versão web também. Então, se você quiser estudar mais sobre teoria do conhecimento, aqui seguem alguns questionários que eu fiz.
+Bem, por enquanto é só. Mas antes de sair, vou reforçar a sugestão da apostila anterior: o app do Kahoot tem um recurso de estudo com *flashcards* que é bem bacana. Por enquanto, ele só funciona no app para smartphones ou tablets, mas os desenvolvedores prometem trazer esse recurso para a versão web também. Então, se você quiser estudar mais sobre teoria do conhecimento, aqui seguem alguns questionários que eu fiz.
 
 ## Questionários no Kahoot
 
-- [Revisão — aula 6](https://create.kahoot.it/)
-- [Revisão — aula 7](https://create.kahoot.it/)
-- [Revisão — aula 8](https://create.kahoot.it/)
-- [Revisão — aula 9](https://create.kahoot.it/)
-- [Revisão — aula 11](https://create.kahoot.it/)
+- [Pragmatismo](https://create.kahoot.it/share/atividade-de-revisao-2-ano-filosofia-semana-6/1614b553-d63c-40ef-bda4-f58838133750)
+- [Criticismo](https://create.kahoot.it/share/atividade-de-revisao-2-ano-semana-7/a2aefcdf-6fa9-4321-84e5-81f4659138c8)
+- [Racionalismo](https://create.kahoot.it/share/atividade-de-revisao-2-ano-semana-8/231a1a46-4846-4a5c-a011-c9daa34be16e)
+- [Empirismo](https://create.kahoot.it/share/atividade-de-revisao-2-ano-semana-9/ca0697a4-3879-4e89-a7d9-d45ce966439b)
+- [Introdução à Lógica](https://create.kahoot.it/share/atividade-de-revisao-2-ano-semana-11/20cfbd39-62cc-4429-8cf2-59f203b5bf9f)
 
 <a href="mailto:marcos.ferreira@ifb.edu.br" target="_blank"><img src="https://marcosramon.net/assets/images/duvidas.png"></a>
 
@@ -246,6 +254,7 @@ Bem, por enquanto é só. Mas antes de sair, deixa eu perguntar uma coisa: você
 
  - ALMEIDA, Aires; TEIXEIRA, Célia; MURCHO, Desidério; MATEUS, Paula; GALVÃO, Pedro. **A arte de Pensar: Filosofia 10º ano**. Lisboa: Plátano Ed., 2008.
  - ARANHA, Maria Lúcia de Arruda. **[Filosofando: Introdução à Filosofia](https://amzn.to/2EV78fJ)**. São Paulo: Moderna, 2013.
+ - COPI, Irving. **[Introdução à Lógica](https://amzn.to/36yMbBI)**. São Paulo: Editora Mestre Jou, 1981.
  - BAGGINI, Julian. **[O porco filósofo: 10 experiências de pensamento para a vida cotidiana](https://amzn.to/2ESvIh4)**. Rio de Janeiro: Relume Dumará, 2006.
  - MARCONDES, Danilo. **[Iniciação à História da Filosofia: dos pré-socráticos a Wittgenstein](https://amzn.to/2GwQEL5)**. Rio de Janeiro: Jorge Zahar Ed., 2004.
  - RUSSELL, Bertrand. **[Os Problemas da Filosofia](https://amzn.to/33o108W)**. Lisboa: Edições 70, 2008.
