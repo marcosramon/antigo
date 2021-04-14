@@ -1,7 +1,7 @@
 ---
 title: Ficções
 layout: page
-description: "Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades."
+description: "Narrativas filosóficas."
 permalink: /ficcoes
 image: ficcoes-sp.png
 ---
@@ -22,7 +22,7 @@ Para ouvir todos os episódios use um dos links a seguir:
 
 <i class="icon-rss"></i> <a href="https://anchor.fm/s/a9c85b0/podcast/rss">RSS</a>
 
-Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades.
+Narrativas filosóficas.
 
 Me ajude a continuar produzindo o podcast e outros projetos na internet: [marcosramon.net/apoie](https://marcosramon.net/apoie){:target="_blank"}
 
