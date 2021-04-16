@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories: blog
-image: Gillam.jpg
+image: Gillam2.jpg
 title: Um mapa do tamanho do mundo
 excerpt: "Esses dias, organizando uma aula de Metodologia de Pesquisa pra uma turma do Mestrado em que eu dou aula, lembrei de um texto do Jorge Luis Borges, chamado *Do rigor na ciência*."
 ---
@@ -21,5 +21,5 @@ Uma pesquisa, por exemplo, pode ser quantitativa na coleta de dados, mas a anál
 
 No final do texto, Borges lembra que as gerações seguintes, naquele Império, menos afeitas à cartografia, consideram os mapas inúteis. A ciência deve ser, quando muito, uma representação da realidade que nos ajude a entender melhor o mundo em que vivemos. Afinal, se ela for tão precisa quanto a própria realidade, para quê precisaremos dela? 
 
-<img src="/assets/images/Gillam.jpg">
+<img src="/assets/images/Gillam2.jpg">
 <small>Ilustração de Frederik Gillam</small>
