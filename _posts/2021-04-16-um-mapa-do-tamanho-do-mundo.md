@@ -17,7 +17,7 @@ O título, *Do rigor na ciência*, nos dá uma pista de que aqui existe um alinh
 
 Ensinar a fazer pesquisa, ou aprender a fazer pesquisa, é se ver no meio desse mundo em que o embate entre a técnica e o saber formam uma falsa dicotomia. Não existe teoria sem prática, não existe procedimento técnico sem reflexão. Por isso, quando alguém define a sua pesquisa como qualitativa, eu me pergunto: o que isso significa exatamente?
 
-Uma pesquisa, por exemplo, pode ser quantitativa na coleta de dados, mas a análise dessas informações é sempre qualitativa. Então, definir a pesquisa como sendo uma coisa ou outra não faz sentido. Mas é preciso ter rigor, é preciso ter procedimentos mensuráveis, é preciso ter um caminho seguro para a pesquisa, é preciso dar um nome certeiro pra tudo. Tudo engano...
+Uma pesquisa, por exemplo, pode ser quantitativa na coleta de dados, mas a análise dessas informações é sempre qualitativa. Então, definir a pesquisa como sendo uma coisa ou outra não faz sentido. Mas é preciso ter rigor, é preciso ter procedimentos mensuráveis, é preciso ter um caminho seguro para a pesquisa, é preciso dar um nome certeiro pra todas as coisas. Tudo engano...
 
 No final do texto, Borges lembra que as gerações seguintes, naquele Império, menos afeitas à cartografia, consideram os mapas inúteis. A ciência deve ser, quando muito, uma representação da realidade que nos ajude a entender melhor o mundo em que vivemos. Afinal, se ela for tão precisa quanto a própria realidade, para quê precisaremos dela? 
 
