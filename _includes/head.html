@@ -37,7 +37,7 @@
   <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 150 }}{% endif %}">
-  <meta name="twitter:image" content="{{ site.url }}/assets/images/{{ page.image }}">
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{{ page.image }}">
   <meta name="twitter:domain" content="{{ site.url }}">
   
   {% seo title=false %}
