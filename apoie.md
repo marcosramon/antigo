@@ -9,19 +9,19 @@ Se você gosta do que produzo e algo que eu criei é importante para você ou te
 
 Faça uma doação única (você escolhe o valor). Qualquer colaboração já é de grande ajuda. 
 
-<i class="icon-heart"></i> [Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){:target="_blank"}
+<i class="fas fa-heart"></i> [Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){:target="_blank"}
 
-<i class="icon-heart"></i> [Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){:target="_blank"}
+<i class="fas fa-heart"></i> [Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){:target="_blank"}
 
 ## Me siga
 
 Me siga nas redes sociais e compartilhe meus textos, vídeos e podcasts com outras pessoas.
 
-<i class="icon-twitter"></i> Twitter: [@mrtollens](https://twitter.com/mrtollens){:target="_blank"}
+<i class="fab fa-twitter"></i> Twitter: [@mrtollens](https://twitter.com/mrtollens){:target="_blank"}
 
-<i class="icon-book"></i> Goodreads: [marcosramon](https://www.goodreads.com/author/show/16012578.Marcos_Ramon){:target="_blank"} 
+<i class="fas fa-book"></i> Goodreads: [marcosramon](https://www.goodreads.com/author/show/16012578.Marcos_Ramon){:target="_blank"} 
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i> Youtube: [Conexão Filosófica](http://youtube.com/conexaofilosofica){:target="_blank"}
+<i class="fab fa-youtube"></i> Youtube: [Conexão Filosófica](http://youtube.com/conexaofilosofica){:target="_blank"}
 
 ## Compre um dos meus livros
 
@@ -35,6 +35,6 @@ Compre um dos meus livros no site da Amazon e depois faça uma análise no [Good
 
 Se você comprar alguma coisa na [Amazon](https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325){:target="_blank"} utilizando o [meu link de associado](https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325){:target="_blank"}, eu ganho uma pequena comissão. Eu também tenho uma lista de desejos, caso você queira comprar alguma coisa para mim. 
 
-<i class="icon-shopping-cart"></i> <a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Compre na Amazon </a> 
+<a href="https://www.amazon.com.br/?&_encoding=UTF8&tag=marcramo-20&linkCode=ur2&linkId=aad24eb81b50d91ca9706a1565e538a2&camp=1789&creative=9325" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Shop Amazon&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Compre na Amazon </a> 
 
-<i class="icon-gift"></i> <a href="https://www.amazon.com.br/hz/wishlist/ls/37BY4FEADOM8T?ref_=wl_share" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Minha lista de desejos</a>
+<a href="https://www.amazon.com.br/hz/wishlist/ls/37BY4FEADOM8T?ref_=wl_share" onclick="ga(&quot;send&quot;,&quot;event&quot;,&quot;link&quot;,&quot;click&quot;,&quot;Amazon Wish List&quot;)" class="btn btn--warning"><i class="fab fa-amazon"></i> Minha lista de desejos</a>
