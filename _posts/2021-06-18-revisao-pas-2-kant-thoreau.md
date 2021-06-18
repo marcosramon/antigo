@@ -22,7 +22,6 @@ Nesse vídeo falo sobre o texto de Kant. É um texto curto, escrito para respond
 A condição para o esclarecimento, afirma Kant, é a existência da liberdade. Por isso, como bom iluminista que era, Kant confiava que o avanço da razão nos levaria inevitavelmente para uma sociedade cada vez mais esclarecida, autônoma e organizada. Nesse vídeo, apresento essas ideias. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/_AKnVdcXOzU' frameborder='0' allowfullscreen></iframe></div>
-<small>Se você quiser acessar uma versão desse vídeo com questões, utilize esse <a href="https://edpuzzle.com/media/5f2072ee8b5f993f08ed570d">link do Edpuzzle</a>.</small>
 
 ### A desobediência civil
 
