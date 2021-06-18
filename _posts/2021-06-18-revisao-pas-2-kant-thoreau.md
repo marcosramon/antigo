@@ -11,6 +11,8 @@ Olá, tudo bem? Aqui você vai encontrar dois vídeos em faço uma apresentaçã
 
 Além dois vídeos, montei também um quiz no Kahoot com algumas questões sobre os dois textos. Se tiver qualquer dúvida ou consideração sobre os temas, pode usar o espaço de comentários para perguntar. <i class="far fa-smile"></i>
 
+<img src="/assets/images/pasunb2.PNG">
+
 ## Vídeos
 
 ### Resposta à pergunta: O que é o Esclarecimento?
