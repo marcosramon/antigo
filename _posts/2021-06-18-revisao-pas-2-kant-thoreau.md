@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories: aulas
-image: pasunb22020.PNG
+image: pasunb22020.jpg
 title: Revisão PAS UnB 2 (Kant e Thoreau)
 excerpt: "Revisão com vídeos e questões sobre os textos de Kant e Thoreau indicados para o PAS 2, da UnB"
 ---
@@ -11,7 +11,7 @@ Olá, tudo bem? Aqui você vai encontrar dois vídeos em que faço uma apresenta
 
 Além dois vídeos, montei também um quiz no Kahoot com algumas questões sobre os dois textos. Se tiver qualquer dúvida ou consideração sobre os temas, pode usar o espaço de comentários para perguntar. <i class="far fa-smile"></i>
 
-<img src="/assets/images/pasunb22020.PNG">
+<img src="/assets/images/pasunb22020.jpg">
 
 ## Vídeos
 
