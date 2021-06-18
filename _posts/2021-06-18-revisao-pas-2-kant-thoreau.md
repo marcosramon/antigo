@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories: aulas
-image: etica2.PNG
+image: pasunb2.PNG
 title: Revisão PAS UnB 2 (Kant e Thoreau)
 excerpt: "Revisão com vídeos e questões sobre os textos de Kant e Thoreau indicados para o PAS 2, da UnB"
 ---
