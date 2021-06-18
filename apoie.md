@@ -9,6 +9,8 @@ Se você gosta do que produzo e algo que eu criei é importante para você ou te
 
 Faça uma doação única (você escolhe o valor). Qualquer colaboração já é de grande ajuda. 
 
+<i class="fas fa-heart"></i> Doação única pelo Pix: pix@marcosramon.net
+
 <i class="fas fa-heart"></i> [Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){:target="_blank"}
 
 <i class="fas fa-heart"></i> [Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){:target="_blank"}
