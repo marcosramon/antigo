@@ -33,15 +33,17 @@ Epicuro aborda no texto também o tema da morte, ao afirmar que o medo que temos
 
 ### Ifigênia em Áulis
 
-Thoreau foi um escritor que se dedicou a refletir sobre a possibilidade de um vida simpes e autêntica. Thoreau morou durante alguns anos em uma cabana que ele construiu dentro de uma propriedade cedida pelo filósofo [Ralph Waldo Emerson](https://g.co/kgs/4aLZ7C). Nesse lugar, que se chamava _Walden_, Thoreau escreveu seu [texto mais famoso](https://amzn.to/3zADJPb), que impulsionou sua análise da sociedade como um todo. 
+Essa tragédia foi escrita por Eurípides e, provavelmente, encenada pela primeira vez em 405 a.C., depois da morte do dramaturgo. Uma coisa importante de dizer é que o conteúdo das tragédias não eram histórias inventadas pelos autores. Na verdade, o conteúdo das tragédias eram as narrativas míticas que faziam parte da cultura do povo grego e que eram repassadas de geração em geração.
 
-O [texto sobre a desobediência civil](https://amzn.to/3gCoC0p) foi motivado pela guerra entre os EUA e o México e também pela luta abolicionista. Thoreau argumenta que, sendo o governo apenas uma conveniência, não é razoável que o cidadão se sinta obrigado a obedecer tudo o que determina no Estado. Na verdade, afirma o autor, todo cidadão tem "o direito de recusar obediência ao governo, e de resistir a ele, quando sua tirania ou sua ineficiência são grandes e intoleráveis" (THOREAU, _A desobediência civil_). 
+_Ifigênia em Áulis_ trata do sacríficio de Ifigênia, filha de Agamêmon, rei de Micenas e irmão de Menelau. Este, por sua vez, era rei de Esparta e marido de Helena, a mulher mais bela do mundo. Helena foi embora para Tróia com o princípe Páris e esse incidente dá o motivo para o começo da guerra. No entanto, Agamênon comete um crime contra a deusa Ártemis, que exige o sacríficio de sua filha mais velha para permitir que os gregos sigam viagem.
+
+No vídeo a seguir, eu apresento o contexto e os detalhes dessa obra:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/g2YOz-uK0Vw' frameborder='0' allowfullscreen></iframe></div>
 
 ## Questionário no Kahoot
 
-Nesse questionário você vai enocntrar algumas questões sobre os dois textos analisados nos vídeos acima. Você pode usar o player abaixo ou então [esse link](https://create.kahoot.it/share/pas-unb-2-etapa-obras-filosoficas/0cfb61db-f895-429f-bee8-05f23737996f).
+Nesse questionário você vai enocntrar algumas questões sobre os três textos analisados nos vídeos acima. Você pode usar o player abaixo ou então [esse link](https://create.kahoot.it/share/pas-unb-2-etapa-obras-filosoficas/0cfb61db-f895-429f-bee8-05f23737996f).
 
 <iframe src="https://kahoot.it/challenge/01244147?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1624021587352" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
 <br>
