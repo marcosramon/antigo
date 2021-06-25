@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: Cultura livre
+image:
+excerpt: "De vez em quando eu olho as estatísticas do meu site e fico besta de ver a quantidade de pessoas que ainda tem interesse em blog. Hoje, eu me preocupo menos com a análise desses dados, mas nem sempre foi assim".
 categories: blog
 ---
 
