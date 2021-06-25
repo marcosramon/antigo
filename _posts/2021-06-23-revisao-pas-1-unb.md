@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 categories: aulas
-image: pasunb22020.jpg
+image: pasunb1.jpg
 title: Revisão PAS UnB 1º ano
 excerpt: "Revisão com vídeos e questões sobre os textos de Platão, Epicuro e Eurípedes, indicados para o PAS 1, da UnB"
 ---
@@ -11,9 +11,19 @@ Olá, tudo bem? Aqui você vai encontrar três vídeos em que faço uma apresent
 
 Além três vídeos, montei também um quiz no Kahoot com algumas questões sobre as obras. Se tiver qualquer dúvida ou consideração sobre os temas, pode usar o espaço de comentários para perguntar. <i class="far fa-smile"></i>
 
-<img src="/assets/images/pasunb22020.jpg">
+<img src="/assets/images/pasunb1.jpg">
 
 ## Vídeos
+
+### Ifigênia em Áulis
+
+Essa tragédia foi escrita por Eurípides e, provavelmente, encenada pela primeira vez em 405 a.C., depois da morte do dramaturgo. Uma coisa importante de dizer é que o conteúdo das tragédias não eram histórias inventadas pelos autores. Na verdade, o conteúdo das tragédias eram as narrativas míticas que faziam parte da cultura do povo grego e que eram repassadas de geração em geração.
+
+_Ifigênia em Áulis_ trata do sacríficio de Ifigênia, filha de Agamêmon, rei de Micenas e irmão de Menelau. Este, por sua vez, era rei de Esparta e marido de Helena, a mulher mais bela do mundo. Helena foi embora para Tróia com o princípe Páris e esse incidente dá o motivo para o começo da guerra. No entanto, Agamênon comete um crime contra a deusa Ártemis, que exige o sacríficio de sua filha mais velha para permitir que os gregos sigam viagem.
+
+No vídeo a seguir, eu apresento o contexto e os detalhes dessa obra:
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Tc4S8T_Zims' frameborder='0' allowfullscreen></iframe></div>
 
 ### Apologia de Sócrates
 
@@ -31,20 +41,10 @@ Epicuro aborda no texto também o tema da morte, ao afirmar que o medo que temos
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/0p1_cnh77zk' frameborder='0' allowfullscreen></iframe></div>
 
-### Ifigênia em Áulis
-
-Essa tragédia foi escrita por Eurípides e, provavelmente, encenada pela primeira vez em 405 a.C., depois da morte do dramaturgo. Uma coisa importante de dizer é que o conteúdo das tragédias não eram histórias inventadas pelos autores. Na verdade, o conteúdo das tragédias eram as narrativas míticas que faziam parte da cultura do povo grego e que eram repassadas de geração em geração.
-
-_Ifigênia em Áulis_ trata do sacríficio de Ifigênia, filha de Agamêmon, rei de Micenas e irmão de Menelau. Este, por sua vez, era rei de Esparta e marido de Helena, a mulher mais bela do mundo. Helena foi embora para Tróia com o princípe Páris e esse incidente dá o motivo para o começo da guerra. No entanto, Agamênon comete um crime contra a deusa Ártemis, que exige o sacríficio de sua filha mais velha para permitir que os gregos sigam viagem.
-
-No vídeo a seguir, eu apresento o contexto e os detalhes dessa obra:
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Tc4S8T_Zims' frameborder='0' allowfullscreen></iframe></div>
-
 ## Questionário no Kahoot
 
-Nesse questionário você vai enocntrar algumas questões sobre os três textos analisados nos vídeos acima. Você pode usar o player abaixo ou então [esse link](https://create.kahoot.it/share/pas-unb-2-etapa-obras-filosoficas/0cfb61db-f895-429f-bee8-05f23737996f).
+Nesse questionário você vai enocntrar algumas questões sobre os três textos analisados nos vídeos acima. Você pode usar o player abaixo ou então [esse link](https://create.kahoot.it/share/revisao-para-o-pas-unb-etapa-1-obras-filosoficas/d23fdb51-f7d4-4e91-a4e4-7969ea6684b1).
 
-<iframe src="https://kahoot.it/challenge/01244147?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1624021587352" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
+<iframe src="https://kahoot.it/challenge/04260269?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1624625218956" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
 <br>
 É isso. Espero que ajude. Se tiver qualquer dúvida, pode perguntar. <i class="far fa-smile-wink"></i>
