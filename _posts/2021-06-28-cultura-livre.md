@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-title: Cultura livre
-image: money.GIF
-excerpt: "De vez em quando eu olho as estatísticas do meu site e fico besta de ver a quantidade de pessoas que ainda tem interesse em blog. Hoje, eu me preocupo menos com a análise desses dados, mas nem sempre foi assim".
 categories: blog
+image: money.GIF
+title: Cultura livre
+excerpt: "De vez em quando eu olho as estatísticas do meu site e fico besta de ver a quantidade de pessoas que ainda tem interesse em blog. Hoje, eu me preocupo menos com a análise desses dados, mas nem sempre foi assim."
 ---
 
 De vez em quando eu olho as estatísticas do meu site e fico besta de ver a quantidade de pessoas que ainda tem interesse em blogs[^1]. Hoje, eu me preocupo menos com a análise desses dados. Quando eu hospedava o meu site no Squarespace eu gastava alguns minutos todo dia olhando quantos acessos eu tinha, e em que páginas, e vindo de quais Estados ou países... era um inferno.
