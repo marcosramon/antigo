@@ -29,6 +29,7 @@ Outros links:
  - [Filosofia](https://medium.com/filosofia-no-ensino-m%C3%A9dio){:target="_blank"}: vídeos, podcasts e textos sobre <mark>Filosofia</mark> no Ensino Médio.
  - [Nintendo Blast](https://www.google.com/search?ei=1YvaXvuqFbay5OUPkOw1&q=marcos+ramon+site%3Anintendoblast.com.br&oq=marcos+ramon+site%3Anintendoblast.com.br&gs_lcp=CgZwc3ktYWIQA1DiFFjiFGCfGGgAcAB4AIAB1QGIAdUBkgEDMi0xmAEAoAECoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi76cCBpOvpAhU2GbkGHRB2DQAQ4dUDCAw&uact=5){:target="_blank"}: link para meus textos sobre <mark>videogames</mark> publicados no site Nintendo Blast.
 
+Se quiser receber atualizações dos meus textos por email, se inscreva na newsletter: 
 <iframe src="https://marcosramon.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
