@@ -33,7 +33,7 @@ O [texto sobre a desobediência civil](https://amzn.to/3gCoC0p) foi motivado pel
 
 ## Questionário no Kahoot
 
-Nesse questionário você vai enocntrar algumas questões sobre os dois textos analisados nos vídeos acima. Você pode usar o player abaixo ou então [esse link](https://create.kahoot.it/share/pas-unb-2-etapa-obras-filosoficas/0cfb61db-f895-429f-bee8-05f23737996f).
+Nesse questionário você vai encontrar algumas questões sobre os dois textos analisados nos vídeos acima. Você pode usar o player abaixo ou então [esse link](https://create.kahoot.it/share/pas-unb-2-etapa-obras-filosoficas/0cfb61db-f895-429f-bee8-05f23737996f).
 
 <iframe src="https://kahoot.it/challenge/01244147?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1624021587352" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
 <br>
