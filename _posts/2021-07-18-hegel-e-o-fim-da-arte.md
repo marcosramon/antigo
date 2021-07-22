@@ -45,10 +45,10 @@ Por isso, a conclusão a que se chega é que arte, por mais que possa continuar 
 
 Ficou com alguma dúvida? Bem, preparei um questionário no Kahoot com algumas questões sobre Hegel. Faça o questionário e, se tiver qualquer questão, é só perguntar.
 
-## Questionário no Kahoot
+## 📄 Questionário no Kahoot
 
 Nesse questionário você vai encontrar algumas questões sobre o tema cima. Você pode usar o player abaixo ou então [esse link](https://create.kahoot.it/details/f839aebb-7fec-4ba5-9a12-8a35f23fb413).
 
 <iframe src="https://kahoot.it/challenge/06435106?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1626627026404" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
 <br>
-É isso. Espero que ajude. Se tiver qualquer dúvida, pode perguntar. <i class="far fa-smile-wink"></i>
+É isso. Espero que ajude. Se tiver qualquer dúvida, pode perguntar. 😉
