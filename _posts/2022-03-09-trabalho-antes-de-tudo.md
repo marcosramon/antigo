@@ -2,7 +2,8 @@
 title: Trabalho, antes de tudo
 layout: post
 image:
-excerpt:
+categories: blog
+excerpt: Trabalhamos porque o trabalho nos define. Mas quem consegue ser realmente apaixonado por aquilo que faz?
 tags: [trabalho, literatura, comportamento, sociedade]
 ---
 
@@ -14,6 +15,6 @@ Mas Cecília não odeia o trabalho por ele mesmo. Ela se tornou médica porque o
 
 > Ninguém notava que eu tinha pouca vocação e paciência para ser médica, a boa formação garantia que eu não fosse processada, fazia bem-feito o feijão com arroz (A pediatra, p.17) 
 
-Quando conhecemos um profissional que faz minimamente bem o que deve fazer, esquecemos, ou melhor, nem consideramos a possibilidade de que ele não faça aquilo por prazer, determinação e paixão. Pensamos de imediato que o trabalho ali visível nas ações certeiras é um sinal definitivo de alguém que nasceu para fazer aquilo. Contudo, ainda que concorde com Marx em relação à natureza essencial do trabalho como algo que nos define e nos organiza no mundo, não acredito que possamos dizer que o trabalho em seu cotidiano espelha com fidelidade aquilo que somos, especialmente hoje. Em um mundo em que temos tanto — e em que a atividade do trabalho, muitas vezes desconectada de nossos interesses práticos, nos tira tanto tempo — é bem mais natural aceitar que o labor é um tipo de estorvo constante com o qual temos que conviver. Fazer bem o que fazemos, com respeito, dignidade e dedicação, é parte do esforço coletivo para que a vida social seja menos penosa do que normalmente já é. Mas a pediatra que detesta crianças é menos estranha do que parece no livro[^1]. Trabalhamos, antes de tudo, apesar de tudo; mas não é o amor que nos move em direção a ele. É que não temos outra saída.
+Quando conhecemos um profissional que faz minimamente bem o que deve fazer, esquecemos, ou melhor, nem consideramos a possibilidade de que ele não faça aquilo por prazer, determinação e paixão. Pensamos de imediato que o trabalho ali visível nas ações certeiras é um sinal definitivo de alguém que nasceu para fazer aquilo. Contudo, ainda que concorde com Marx em relação à natureza essencial do trabalho como algo que nos define e nos organiza no mundo, não acredito que possamos dizer que o trabalho em seu cotidiano espelha com fidelidade aquilo que somos, especialmente hoje. Em um mundo em que temos tanto — e em que a atividade do trabalho, muitas vezes desconectada de nossos interesses práticos, nos tira tanto tempo — é bem mais natural aceitar que o labor é um tipo de estorvo constante com o qual temos que conviver. Fazer bem o que fazemos, com respeito, dignidade e dedicação, é parte do esforço coletivo para que a vida social seja menos penosa do que normalmente já é. Mas a pediatra que detesta crianças é menos estranha do que parece no livro[^1]. Trabalhamos, antes de tudo, apesar de tudo; mas não é o amor que nos move aqui. É que não temos outra saída.
 
 [^1]: Na verdade, se ela é esquisita é muito mais por outros motivos, que mobilizam a personagem e movem a história que, apesar de tudo, não se encerra (como eu já disse) em uma reflexão sobre o trabalho.
