@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A presunção moral
 categories: blog
 layout: post
