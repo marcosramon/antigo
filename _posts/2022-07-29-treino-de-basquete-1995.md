@@ -6,6 +6,8 @@ published: false
 
 *Essa história que conto aqui aconteceu quase assim, mas não exatamente. Mudei os nomes e os detalhes. No mais, bem que poderia ter sido.*
 
+---
+
 Sábado à tarde. Fui ao supermercado comprar laranjas, tangerina, melão, pão, presunto e queijo. Tirando o melão, que estava caro, comprei tudo da lista e estava voltando pra casa, quando uma pessoa que andava na minha frente parou e disse:
 
 – Ei, cara. Tudo bem? Posso te fazer uma pergunta?
