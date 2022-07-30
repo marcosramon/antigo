@@ -1,12 +1,13 @@
 ---
 title: Treino de basquete, 1995
 excerpt: "Quando a memória nos trai, sentimos que somos um pouco menos nós mesmos"
-published: false
+image: 40026C66-01A6-4B54-BF9E-E533C7A7D5DB.jpeg
+published: true
 ---
 
 *Essa história que conto aqui aconteceu quase assim, mas não exatamente. Mudei os nomes e os detalhes. No mais, bem que poderia ter sido.*
 
----
+<img src="/assets/images/40026C66-01A6-4B54-BF9E-E533C7A7D5DB.jpeg">
 
 Sábado à tarde. Fui ao supermercado comprar laranjas, tangerina, melão, pão, presunto e queijo. Tirando o melão, que estava caro, comprei tudo da lista e estava voltando pra casa, quando uma pessoa que andava na minha frente parou e disse:
 
