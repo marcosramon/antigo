@@ -1,6 +1,8 @@
 ---
 title: Treino de basquete, 1995
 excerpt: "Quando a memória nos trai, sentimos que somos um pouco menos nós mesmos"
+layout: post
+categories: blog
 image: 40026C66-01A6-4B54-BF9E-E533C7A7D5DB.jpeg
 published: true
 ---
