@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-excerpt: "Muitas vezes ficamos sem opção de escolher o silêncio (ou o que seria mais próximo dele), e o barulho quase nos consome"
+excerpt: "Muitas vezes ficamos sem opção de escolher o silêncio (ou o que seria mais próximo dele), e o barulho quase nos consome."
 title: O som da rua
 image: somdarua.png
 ---
