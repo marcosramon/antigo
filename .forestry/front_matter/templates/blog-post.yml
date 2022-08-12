@@ -26,5 +26,9 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - _posts/2022-08-12-nada-existe.md
