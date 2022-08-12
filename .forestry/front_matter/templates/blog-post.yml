@@ -17,5 +17,14 @@ fields:
 - type: file
   name: image
   label: image
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - _posts/2022-08-12-nada-existe.md
