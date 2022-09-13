@@ -17,4 +17,4 @@ description: Acesso a documentos básicos da disciplina Introdução à Estétic
 * Professor Marcos Ramon: [marcos.ferreira@ifb.edu.br](mailto:marcos.ferreira@ifb.edu.br){:target="_blank"}
 * Qualquer dúvida, é só perguntar. ;)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a4MrNr0JqJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/a4MrNr0JqJU' frameborder='0' allowfullscreen></iframe></div>
