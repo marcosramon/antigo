@@ -1,12 +1,9 @@
 ---
-tags: []
 layout: page
-categories: ''
-excerpt: Acesso a documentos básicos da disciplina Introdução à Estética e História
+description: Acesso a documentos básicos da disciplina Introdução à Estética e História
   da Arte
 title: Estética
 image: "/uploads/da633fae-2f70-46cb-8b16-a73c626c1fd8.jpeg"
-date: 2022-09-13 03:00:00 +0000
 
 ---
 ## Introdução à Estética e História da Arte
