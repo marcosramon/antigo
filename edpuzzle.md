@@ -1,7 +1,7 @@
 ---
 title: "Edpuzzle"
 layout: page
-description: 
+description: modos de inserção de vídeos do Edpuzzle em um site
 ---
 ## Formas de visualização de vídeos do Edpuzzle
 
