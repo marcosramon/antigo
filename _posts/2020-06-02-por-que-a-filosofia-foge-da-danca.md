@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: blog
 image: dance.jpg
 title: Por que a filosofia foge da dança?
