@@ -10,6 +10,8 @@ description: "Marcos Ramon | Pesquisador, escritor, podcaster"
 Meu nome é Marcos Ramon. Nasci em São Luís, mas moro em Brasília desde 2010. Sou pesquisador, professor e podcaster, e pesquiso cibercultura, estética e cultura digital. Sou professor de Filosofia no Instituto Federal de Brasília, atuando também no Mestrado em Educação Profissional e Tecnológica.
 {: .message }
 
+<img src="/assets/images/tolis2023.jpg" width="300" height="300">
+
 Sou Licenciado em Filosofia pela Universidade Federal do Maranhão (1999-2004), onde também concluí o Mestrado em Cultura e Sociedade (2009-2011). Fiz o Doutorado em Comunicação na Universidade de Brasília (2012-2014). 
 
 Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772){:target="_blank"} e do [Orcid](https://orcid.org/0000-0002-8720-8706){:target="_blank"}. Quem tiver interesse em trocar ideias sobre a pesquisa é só mandar um [email](mailto:contato@marcosramon.net){:target="_blank"}. 
@@ -29,8 +31,7 @@ Outros links:
  - [Filosofia](https://medium.com/filosofia-no-ensino-m%C3%A9dio){:target="_blank"}: vídeos, podcasts e textos sobre <mark>Filosofia</mark> no Ensino Médio.
  - [Nintendo Blast](https://www.google.com/search?ei=1YvaXvuqFbay5OUPkOw1&q=marcos+ramon+site%3Anintendoblast.com.br&oq=marcos+ramon+site%3Anintendoblast.com.br&gs_lcp=CgZwc3ktYWIQA1DiFFjiFGCfGGgAcAB4AIAB1QGIAdUBkgEDMi0xmAEAoAECoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi76cCBpOvpAhU2GbkGHRB2DQAQ4dUDCAw&uact=5){:target="_blank"}: link para meus textos sobre <mark>videogames</mark> publicados no site Nintendo Blast.
 
-Se quiser receber atualizações dos meus textos por email, se inscreva na newsletter: 
-<iframe src="https://marcosramon.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+Se quiser receber atualizações dos meus textos por email, se [inscreva na newsletter](https://marcosramon.substack.com){:target="_blank"}.
 
 Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
 
