@@ -6,6 +6,7 @@ categories:
   - blog
 excerpt: A força do tempo sobre a gente faz com que, muitas vezes, esqueçamos que as coisas se dão em um processo cumulativo.
 title: Reimaginando o tempo
+layout: post
 image: selfiehole.jpg
 date: 2022-12-22 21:32:00 +0000
 published: true
