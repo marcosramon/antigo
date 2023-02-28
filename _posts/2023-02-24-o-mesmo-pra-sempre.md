@@ -3,6 +3,7 @@ title: O mesmo, pra sempre
 excerpt: Não importa o quanto eu ache que eu mudei.
 date: 2023-02-24 21:32:00 +0000
 image: pensar1.jpg
+layout: post
 tags: 
   - reflexão
   - filosofia
