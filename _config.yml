@@ -3,7 +3,7 @@ title: Marcos Ramon
 tagline: Textos e podcasts sobre filosofia, arte, tecnologia
 url: https://marcosramon.net
 paginate: 5
-baseurl: "http://marcosramon.github.io"
+baseurl: "http://marcosramon.net"
 permalink: /:categories/:title
 
 # Gems
