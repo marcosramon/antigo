@@ -2,6 +2,7 @@
 title: Não quero saber
 data: 2024-30-12
 excerpt: Quem precisa saber tanta coisa?
+layout: post
 ---
 
 2024 foi um ano ruim.
